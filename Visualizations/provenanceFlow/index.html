@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Provenance Flow Map – Treasure Trackers</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <!-- D3 + TopoJSON -->
+  <script src="https://d3js.org/d3.v7.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/topojson-client@3/dist/topojson-client.min.js"></script>
+  <!-- Brand fonts: Playfair Display (titles) + Open Sans (body) -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link
+    href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600&family=Playfair+Display:wght@600;700&display=swap"
+    rel="stylesheet">
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header class="tt-header">
+    <div>
+      <h1>Provenance Flows</h1>
+      <p>Objects moving from countries of origin into the MET, CMA, and NGA.</p>
+    </div>
+  </header>
+
+  <main class="tt-main">
+    <aside class="tt-controls">
+      <h2>Filters</h2>
+
+      <div class="control-group">
+        <label>Museums</label>
+        <label><input type="checkbox" class="museum-filter" value="MET" checked /> MET</label>
+        <label><input type="checkbox" class="museum-filter" value="CMA" checked /> CMA</label>
+        <label><input type="checkbox" class="museum-filter" value="NGA" checked /> NGA</label>
+      </div>
+
+      <div class="control-group">
+        <label for="region-select">Region</label>
+        <select id="region-select">
+          <option value="ALL" selected>All regions</option>
+        </select>
+      </div>
+
+      <section class="unknown-summary">
+        <h3>Unknown origins</h3>
+        <div id="unknown-box"></div>
+        <p class="note">
+          Objects with no identifiable origin are listed here instead of on the map.
+        </p>
+      </section>
+    </aside>
+
+    <section class="tt-viz">
+      <svg id="provenance-viz"></svg>
+      <div id="legend"></div>
+    </section>
+  </main>
+
+  <footer class="tt-footer">
+    Treasure Trackers · provenance prototype (D3.js)
+  </footer>
+
+  <script src="main.js"></script>
+</body>
+</html>

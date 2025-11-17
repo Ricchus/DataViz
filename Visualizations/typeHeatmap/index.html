@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <title>Type × Region × Time Heatmap – Treasure Trackers</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+  <!-- Brand fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link
+    href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600&family=Playfair+Display:wght@600;700&display=swap"
+    rel="stylesheet">
+
+  <!-- D3 -->
+  <script src="https://d3js.org/d3.v7.min.js"></script>
+
+  <link rel="stylesheet" href="style.css" />
+</head>
+
+<body>
+  <header class="tt-header">
+    <div>
+      <h1>What kinds of objects dominate where?</h1>
+      <p>Type × region × time heatmap, with a per‑region summary of countries and dominant types.</p>
+    </div>
+  </header>
+
+  <main class="tt-main">
+    <aside class="tt-controls">
+      <h2>Controls</h2>
+
+      <div class="control-group">
+        <label for="region-select">Region</label>
+        <select id="region-select">
+          <!-- options populated by JS -->
+        </select>
+      </div>
+
+      <div class="control-group">
+        <label>Color metric</label>
+        <label><input type="radio" name="metric" value="share" checked> Share within region &amp; decade</label>
+        <label><input type="radio" name="metric" value="count"> Raw counts</label>
+      </div>
+
+      <section class="country-panel">
+        <h3>Top countries in this region</h3>
+        <p class="country-panel-note">
+          For the selected region, this summary shows the top countries and the dominant
+          object type collected from each.
+        </p>
+        <div id="country-summary">
+          <!-- populated by JS -->
+        </div>
+      </section>
+    </aside>
+
+    <section class="tt-viz">
+      <div class="heatmap-header">
+        <h2 id="heatmap-title">Region: &mdash;</h2>
+        <p id="heatmap-subtitle" class="heatmap-subtitle">
+          Each cell shows how dominant a type is for that region and decade.
+        </p>
+      </div>
+      <svg id="type-heatmap"></svg>
+      <div id="heatmap-legend"></div>
+    </section>
+  </main>
+
+  <footer class="tt-footer">
+    Treasure Trackers · type × region × time prototype
+  </footer>
+
+  <script src="main.js"></script>
+</body>
+
+</html>

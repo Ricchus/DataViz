@@ -1,0 +1,2352 @@
+region,decade,type_group,n_objects,share_within_region_decade
+Asia,-1000,other,8,1.0
+Asia,-980,other,2,1.0
+Asia,-970,other,3,1.0
+Asia,-950,other,6,1.0
+Asia,-920,other,2,1.0
+Asia,-910,other,2,1.0
+Asia,-900,other,1,1.0
+Asia,-750,other,3,1.0
+Asia,-660,other,7,1.0
+Asia,-630,other,1,1.0
+Asia,-570,other,1,1.0
+Asia,-550,other,1,1.0
+Asia,-520,other,1,1.0
+Asia,-500,other,2,1.0
+Asia,-490,other,3,1.0
+Asia,-450,other,4,1.0
+Asia,-420,other,1,1.0
+Asia,-360,other,6,1.0
+Asia,-350,other,32,1.0
+Asia,-300,other,2,1.0
+Asia,-260,other,1,1.0
+Asia,-250,other,11,1.0
+Asia,-240,other,1,1.0
+Asia,-200,other,7,1.0
+Asia,-160,other,3,1.0
+Asia,-150,other,16,1.0
+Asia,-130,other,35,1.0
+Asia,-100,other,28,1.0
+Asia,-90,other,1,1.0
+Asia,-70,other,2,1.0
+Asia,-60,other,7,1.0
+Asia,-50,other,5,1.0
+Asia,0,other,54,1.0
+Asia,10,other,6,1.0
+Asia,40,other,2,1.0
+Asia,50,other,5,1.0
+Asia,60,other,3,1.0
+Asia,70,other,2,1.0
+Asia,90,other,1,1.0
+Asia,100,other,2,1.0
+Asia,110,other,1,1.0
+Asia,120,other,17,1.0
+Asia,130,other,1,1.0
+Asia,140,other,12,1.0
+Asia,150,other,8,1.0
+Asia,160,other,2,1.0
+Asia,170,other,4,1.0
+Asia,180,other,2,1.0
+Asia,190,other,3,1.0
+Asia,200,other,5,1.0
+Asia,220,other,1,1.0
+Asia,240,other,6,1.0
+Asia,250,other,3,1.0
+Asia,260,other,1,1.0
+Asia,280,other,1,1.0
+Asia,290,other,11,1.0
+Asia,300,other,3,1.0
+Asia,330,other,1,1.0
+Asia,340,other,11,1.0
+Asia,350,other,2,1.0
+Asia,360,other,1,1.0
+Asia,390,other,8,1.0
+Asia,400,other,2,1.0
+Asia,410,other,2,1.0
+Asia,430,other,1,1.0
+Asia,440,other,20,1.0
+Asia,450,other,3,1.0
+Asia,460,other,1,1.0
+Asia,480,other,4,1.0
+Asia,490,other,10,1.0
+Asia,500,other,6,1.0
+Asia,510,other,3,1.0
+Asia,520,other,1,1.0
+Asia,530,other,1,1.0
+Asia,540,other,8,1.0
+Asia,550,other,15,1.0
+Asia,560,other,8,1.0
+Asia,570,other,3,1.0
+Asia,580,other,4,1.0
+Asia,590,other,13,1.0
+Asia,600,other,5,1.0
+Asia,610,other,4,1.0
+Asia,640,other,10,1.0
+Asia,650,other,4,1.0
+Asia,670,other,5,1.0
+Asia,680,other,7,1.0
+Asia,690,other,8,1.0
+Asia,700,other,6,1.0
+Asia,710,other,12,1.0
+Asia,720,other,3,1.0
+Asia,730,other,3,1.0
+Asia,740,other,55,1.0
+Asia,750,ceramics,1,0.09090909090909091
+Asia,750,other,10,0.9090909090909091
+Asia,760,other,24,1.0
+Asia,780,other,2,1.0
+Asia,790,other,5,1.0
+Asia,800,other,12,1.0
+Asia,820,other,3,1.0
+Asia,830,other,1,1.0
+Asia,840,other,7,1.0
+Asia,850,other,3,1.0
+Asia,860,other,1,1.0
+Asia,890,ceramics,6,0.6
+Asia,890,other,4,0.4
+Asia,900,other,6,1.0
+Asia,910,other,1,1.0
+Asia,930,other,6,1.0
+Asia,940,other,28,1.0
+Asia,950,other,8,1.0
+Asia,970,other,1,1.0
+Asia,980,other,14,1.0
+Asia,990,ceramics,2,0.25
+Asia,990,other,6,0.75
+Asia,1000,other,4,1.0
+Asia,1010,other,13,1.0
+Asia,1020,other,2,1.0
+Asia,1040,other,25,1.0
+Asia,1050,other,12,1.0
+Asia,1060,other,3,1.0
+Asia,1070,other,1,1.0
+Asia,1090,other,20,1.0
+Asia,1100,other,4,1.0
+Asia,1110,other,424,1.0
+Asia,1120,other,1,1.0
+Asia,1130,other,2,1.0
+Asia,1140,other,93,1.0
+Asia,1150,other,151,1.0
+Asia,1160,other,2,1.0
+Asia,1170,other,11,1.0
+Asia,1180,other,17,1.0
+Asia,1190,other,47,1.0
+Asia,1200,other,35,1.0
+Asia,1210,other,9,1.0
+Asia,1220,other,3,1.0
+Asia,1230,other,3,1.0
+Asia,1240,Prints,2,0.013605442176870748
+Asia,1240,other,145,0.9863945578231292
+Asia,1250,other,25,1.0
+Asia,1260,other,11,1.0
+Asia,1270,other,19,1.0
+Asia,1280,other,19,1.0
+Asia,1290,other,27,1.0
+Asia,1300,other,19,1.0
+Asia,1310,other,51,1.0
+Asia,1320,other,18,1.0
+Asia,1330,other,10,1.0
+Asia,1340,other,58,1.0
+Asia,1350,other,15,1.0
+Asia,1360,other,9,1.0
+Asia,1370,other,5,1.0
+Asia,1380,other,3,1.0
+Asia,1390,other,19,1.0
+Asia,1400,other,9,1.0
+Asia,1410,other,14,1.0
+Asia,1420,other,6,1.0
+Asia,1430,other,16,1.0
+Asia,1440,other,61,1.0
+Asia,1450,other,11,1.0
+Asia,1460,other,13,1.0
+Asia,1470,other,20,1.0
+Asia,1480,other,172,1.0
+Asia,1490,other,29,1.0
+Asia,1500,Prints,6,0.058823529411764705
+Asia,1500,other,96,0.9411764705882353
+Asia,1510,other,13,1.0
+Asia,1520,other,21,1.0
+Asia,1530,other,18,1.0
+Asia,1540,other,66,1.0
+Asia,1550,other,116,1.0
+Asia,1560,other,13,1.0
+Asia,1570,other,12,1.0
+Asia,1580,other,54,1.0
+Asia,1590,other,88,0.9887640449438202
+Asia,1590,textiles-woven,1,0.011235955056179775
+Asia,1600,other,51,1.0
+Asia,1610,other,48,1.0
+Asia,1620,Prints,10,0.09259259259259259
+Asia,1620,other,98,0.9074074074074074
+Asia,1630,Prints,19,0.2923076923076923
+Asia,1630,other,46,0.7076923076923077
+Asia,1640,other,133,1.0
+Asia,1650,Drawings,1,0.010101010101010102
+Asia,1650,other,96,0.9696969696969697
+Asia,1650,textiles-woven,2,0.020202020202020204
+Asia,1660,Drawings,1,0.017857142857142856
+Asia,1660,other,54,0.9642857142857143
+Asia,1660,textiles-woven,1,0.017857142857142856
+Asia,1670,other,90,0.9574468085106383
+Asia,1670,textiles-woven,4,0.0425531914893617
+Asia,1680,Prints,1,0.014492753623188406
+Asia,1680,other,67,0.9710144927536232
+Asia,1680,textiles-woven,1,0.014492753623188406
+Asia,1690,Drawings,1,0.0024154589371980675
+Asia,1690,Prints,12,0.028985507246376812
+Asia,1690,other,400,0.966183574879227
+Asia,1690,textiles-woven,1,0.0024154589371980675
+Asia,1700,Drawings,1,0.01694915254237288
+Asia,1700,Prints,1,0.01694915254237288
+Asia,1700,other,57,0.9661016949152542
+Asia,1710,Prints,5,0.07936507936507936
+Asia,1710,other,58,0.9206349206349206
+Asia,1720,Prints,29,0.1870967741935484
+Asia,1720,other,126,0.8129032258064516
+Asia,1730,Prints,1,0.038461538461538464
+Asia,1730,other,25,0.9615384615384616
+Asia,1740,Drawings,1,0.0015527950310559005
+Asia,1740,Prints,22,0.034161490683229816
+Asia,1740,other,621,0.9642857142857143
+Asia,1750,Drawings,3,0.02857142857142857
+Asia,1750,Prints,14,0.13333333333333333
+Asia,1750,other,88,0.8380952380952381
+Asia,1760,Drawings,1,0.0024937655860349127
+Asia,1760,Prints,97,0.24189526184538654
+Asia,1760,other,303,0.7556109725685786
+Asia,1770,Drawings,1,0.0027548209366391185
+Asia,1770,Prints,57,0.15702479338842976
+Asia,1770,other,305,0.8402203856749312
+Asia,1780,Drawings,1,0.005208333333333333
+Asia,1780,Prints,55,0.2864583333333333
+Asia,1780,other,136,0.7083333333333334
+Asia,1790,Prints,153,0.33406113537117904
+Asia,1790,ceramics,1,0.002183406113537118
+Asia,1790,other,290,0.6331877729257642
+Asia,1790,textiles-woven,14,0.03056768558951965
+Asia,1800,Drawings,1,0.004878048780487805
+Asia,1800,Prints,57,0.2780487804878049
+Asia,1800,other,147,0.7170731707317073
+Asia,1810,Drawings,2,0.012269938650306749
+Asia,1810,Prints,28,0.17177914110429449
+Asia,1810,other,133,0.8159509202453987
+Asia,1820,Drawings,1,0.006024096385542169
+Asia,1820,Prints,56,0.3373493975903614
+Asia,1820,other,107,0.6445783132530121
+Asia,1820,textiles-woven,2,0.012048192771084338
+Asia,1830,Drawings,3,0.01171875
+Asia,1830,Prints,81,0.31640625
+Asia,1830,other,172,0.671875
+Asia,1840,Drawings,5,0.009615384615384616
+Asia,1840,Prints,23,0.04423076923076923
+Asia,1840,other,491,0.9442307692307692
+Asia,1840,textiles-woven,1,0.0019230769230769232
+Asia,1850,Drawings,1,0.0024691358024691358
+Asia,1850,Photographs,1,0.0024691358024691358
+Asia,1850,Prints,45,0.1111111111111111
+Asia,1850,other,357,0.8814814814814815
+Asia,1850,textiles-woven,1,0.0024691358024691358
+Asia,1860,Drawings,1,0.02631578947368421
+Asia,1860,Photographs,4,0.10526315789473684
+Asia,1860,Prints,3,0.07894736842105263
+Asia,1860,other,30,0.7894736842105263
+Asia,1870,Drawings,1,0.00641025641025641
+Asia,1870,Photographs,3,0.019230769230769232
+Asia,1870,other,149,0.9551282051282052
+Asia,1870,textiles-woven,3,0.019230769230769232
+Asia,1880,Drawings,6,0.024390243902439025
+Asia,1880,Photographs,111,0.45121951219512196
+Asia,1880,Prints,3,0.012195121951219513
+Asia,1880,other,125,0.508130081300813
+Asia,1880,textiles-woven,1,0.0040650406504065045
+Asia,1890,Drawings,1,0.0014534883720930232
+Asia,1890,Photographs,14,0.020348837209302327
+Asia,1890,Prints,19,0.027616279069767442
+Asia,1890,ceramics,1,0.0014534883720930232
+Asia,1890,other,576,0.8372093023255814
+Asia,1890,textiles-woven,77,0.1119186046511628
+Asia,1900,Drawings,23,0.028930817610062894
+Asia,1900,Photographs,6,0.007547169811320755
+Asia,1900,Prints,6,0.007547169811320755
+Asia,1900,other,759,0.9547169811320755
+Asia,1900,textiles-woven,1,0.0012578616352201257
+Asia,1910,Photographs,2,0.014084507042253521
+Asia,1910,Prints,8,0.056338028169014086
+Asia,1910,other,132,0.9295774647887324
+Asia,1920,Drawings,1,0.007575757575757576
+Asia,1920,Photographs,4,0.030303030303030304
+Asia,1920,Prints,9,0.06818181818181818
+Asia,1920,other,118,0.8939393939393939
+Asia,1930,Drawings,2,0.01652892561983471
+Asia,1930,Photographs,9,0.0743801652892562
+Asia,1930,Prints,28,0.23140495867768596
+Asia,1930,other,80,0.6611570247933884
+Asia,1930,textiles-woven,2,0.01652892561983471
+Asia,1940,Photographs,7,0.07142857142857142
+Asia,1940,Prints,41,0.41836734693877553
+Asia,1940,other,50,0.5102040816326531
+Asia,1950,Drawings,4,0.015625
+Asia,1950,Photographs,13,0.05078125
+Asia,1950,Prints,194,0.7578125
+Asia,1950,other,44,0.171875
+Asia,1950,textiles-woven,1,0.00390625
+Asia,1960,Drawings,17,0.044854881266490766
+Asia,1960,Photographs,21,0.055408970976253295
+Asia,1960,Prints,255,0.6728232189973615
+Asia,1960,other,86,0.22691292875989447
+Asia,1970,Drawings,82,0.38317757009345793
+Asia,1970,Photographs,17,0.0794392523364486
+Asia,1970,Prints,83,0.3878504672897196
+Asia,1970,other,32,0.14953271028037382
+Asia,1980,Photographs,31,0.14903846153846154
+Asia,1980,Prints,114,0.5480769230769231
+Asia,1980,other,63,0.30288461538461536
+Asia,1990,Drawings,5,0.020491803278688523
+Asia,1990,Photographs,97,0.3975409836065574
+Asia,1990,Prints,90,0.36885245901639346
+Asia,1990,other,52,0.21311475409836064
+Asia,2000,Drawings,3,0.01948051948051948
+Asia,2000,Photographs,23,0.14935064935064934
+Asia,2000,Prints,41,0.2662337662337662
+Asia,2000,other,86,0.5584415584415584
+Asia,2000,textiles-woven,1,0.006493506493506494
+Asia,2010,Drawings,2,0.02247191011235955
+Asia,2010,Photographs,1,0.011235955056179775
+Asia,2010,Prints,36,0.4044943820224719
+Asia,2010,other,50,0.5617977528089888
+Asia,2020,Photographs,2,0.2
+Asia,2020,Prints,1,0.1
+Asia,2020,other,7,0.7
+Europe,-850,other,3,1.0
+Europe,-800,other,2,1.0
+Europe,-750,other,1,1.0
+Europe,-700,other,1,1.0
+Europe,-650,other,1,1.0
+Europe,-540,other,1,1.0
+Europe,-510,other,1,1.0
+Europe,-400,other,1,1.0
+Europe,-390,other,1,1.0
+Europe,-320,other,1,1.0
+Europe,-250,other,1,1.0
+Europe,-120,other,3,1.0
+Europe,-110,other,1,1.0
+Europe,-80,other,4,1.0
+Europe,-60,other,6,1.0
+Europe,-40,other,1,1.0
+Europe,-30,other,2,1.0
+Europe,-20,other,4,1.0
+Europe,-10,other,18,1.0
+Europe,0,other,40,0.975609756097561
+Europe,0,textiles-woven,1,0.024390243902439025
+Europe,10,other,10,1.0
+Europe,20,other,11,1.0
+Europe,30,other,5,1.0
+Europe,40,other,3,1.0
+Europe,50,other,21,1.0
+Europe,60,other,1,1.0
+Europe,70,other,1,1.0
+Europe,90,other,1,1.0
+Europe,100,other,14,1.0
+Europe,110,other,3,1.0
+Europe,120,other,1,1.0
+Europe,140,other,1,1.0
+Europe,150,other,7,1.0
+Europe,160,other,1,1.0
+Europe,180,other,1,1.0
+Europe,190,other,4,1.0
+Europe,200,other,11,1.0
+Europe,230,other,1,1.0
+Europe,240,other,1,1.0
+Europe,250,other,2,1.0
+Europe,260,other,1,1.0
+Europe,290,other,2,1.0
+Europe,300,other,1,1.0
+Europe,370,other,1,1.0
+Europe,390,other,8,1.0
+Europe,400,other,9,1.0
+Europe,450,other,1,1.0
+Europe,490,other,2,1.0
+Europe,500,other,6,1.0
+Europe,520,other,2,1.0
+Europe,530,other,1,1.0
+Europe,550,other,35,1.0
+Europe,570,other,1,1.0
+Europe,590,other,11,1.0
+Europe,600,ceramics,1,0.03333333333333333
+Europe,600,other,29,0.9666666666666667
+Europe,610,other,3,1.0
+Europe,620,other,4,1.0
+Europe,630,other,1,1.0
+Europe,640,other,3,1.0
+Europe,650,other,2,1.0
+Europe,690,other,182,0.994535519125683
+Europe,690,textiles-woven,1,0.00546448087431694
+Europe,700,other,30,1.0
+Europe,720,other,1,1.0
+Europe,730,Prints,1,1.0
+Europe,750,Drawings,1,0.09090909090909091
+Europe,750,other,10,0.9090909090909091
+Europe,780,other,1,1.0
+Europe,790,other,10,1.0
+Europe,800,other,1,1.0
+Europe,820,other,1,1.0
+Europe,830,other,1,1.0
+Europe,840,other,1,1.0
+Europe,850,other,1,1.0
+Europe,870,other,3,1.0
+Europe,880,other,1,1.0
+Europe,890,Prints,1,0.16666666666666666
+Europe,890,other,5,0.8333333333333334
+Europe,900,Prints,1,0.3333333333333333
+Europe,900,other,2,0.6666666666666666
+Europe,910,other,1,1.0
+Europe,920,Prints,1,0.5
+Europe,920,other,1,0.5
+Europe,940,other,1,1.0
+Europe,950,Prints,1,0.3333333333333333
+Europe,950,other,2,0.6666666666666666
+Europe,960,other,4,1.0
+Europe,970,other,1,1.0
+Europe,990,Prints,1,0.16666666666666666
+Europe,990,other,5,0.8333333333333334
+Europe,1000,other,4,1.0
+Europe,1020,other,1,1.0
+Europe,1030,other,1,1.0
+Europe,1040,other,16,1.0
+Europe,1050,other,2,1.0
+Europe,1060,other,1,1.0
+Europe,1070,Drawings,1,0.14285714285714285
+Europe,1070,other,6,0.8571428571428571
+Europe,1080,other,4,1.0
+Europe,1090,other,18,1.0
+Europe,1100,other,12,1.0
+Europe,1110,other,2,1.0
+Europe,1120,Drawings,2,0.18181818181818182
+Europe,1120,other,9,0.8181818181818182
+Europe,1130,other,20,1.0
+Europe,1140,other,64,1.0
+Europe,1150,other,154,0.9871794871794872
+Europe,1150,textiles-woven,2,0.01282051282051282
+Europe,1160,Drawings,2,0.10526315789473684
+Europe,1160,other,17,0.8947368421052632
+Europe,1170,Drawings,1,0.023255813953488372
+Europe,1170,other,42,0.9767441860465116
+Europe,1180,Drawings,2,0.07142857142857142
+Europe,1180,other,26,0.9285714285714286
+Europe,1190,Drawings,2,0.016
+Europe,1190,other,123,0.984
+Europe,1200,other,60,1.0
+Europe,1210,Drawings,1,0.045454545454545456
+Europe,1210,other,21,0.9545454545454546
+Europe,1220,other,44,0.9777777777777777
+Europe,1220,textiles-woven,1,0.022222222222222223
+Europe,1230,Drawings,3,0.09090909090909091
+Europe,1230,other,30,0.9090909090909091
+Europe,1240,Drawings,2,0.03076923076923077
+Europe,1240,other,63,0.9692307692307692
+Europe,1250,ceramics,1,0.02702702702702703
+Europe,1250,other,36,0.972972972972973
+Europe,1260,Drawings,2,0.08
+Europe,1260,other,23,0.92
+Europe,1270,Drawings,21,0.31343283582089554
+Europe,1270,other,46,0.6865671641791045
+Europe,1280,Drawings,1,0.010309278350515464
+Europe,1280,other,96,0.9896907216494846
+Europe,1290,Drawings,1,0.009708737864077669
+Europe,1290,other,93,0.9029126213592233
+Europe,1290,textiles-woven,9,0.08737864077669903
+Europe,1300,ceramics,1,0.0196078431372549
+Europe,1300,other,49,0.9607843137254902
+Europe,1300,textiles-woven,1,0.0196078431372549
+Europe,1310,other,24,1.0
+Europe,1320,Drawings,3,0.02564102564102564
+Europe,1320,ceramics,2,0.017094017094017096
+Europe,1320,other,112,0.9572649572649573
+Europe,1330,Drawings,1,0.017857142857142856
+Europe,1330,other,55,0.9821428571428571
+Europe,1340,Drawings,3,0.045454545454545456
+Europe,1340,other,63,0.9545454545454546
+Europe,1350,Drawings,1,0.012987012987012988
+Europe,1350,ceramics,2,0.025974025974025976
+Europe,1350,other,74,0.961038961038961
+Europe,1360,other,23,1.0
+Europe,1370,Drawings,2,0.005221932114882507
+Europe,1370,other,381,0.9947780678851175
+Europe,1380,Drawings,3,0.08333333333333333
+Europe,1380,other,33,0.9166666666666666
+Europe,1390,Drawings,4,0.024390243902439025
+Europe,1390,ceramics,2,0.012195121951219513
+Europe,1390,other,143,0.8719512195121951
+Europe,1390,textiles-woven,15,0.09146341463414634
+Europe,1400,Drawings,4,0.005361930294906166
+Europe,1400,Prints,1,0.0013404825737265416
+Europe,1400,ceramics,2,0.002680965147453083
+Europe,1400,other,738,0.9892761394101877
+Europe,1400,textiles-woven,1,0.0013404825737265416
+Europe,1410,Drawings,4,0.06451612903225806
+Europe,1410,Prints,1,0.016129032258064516
+Europe,1410,other,57,0.9193548387096774
+Europe,1420,Drawings,5,0.05952380952380952
+Europe,1420,Prints,7,0.08333333333333333
+Europe,1420,ceramics,7,0.08333333333333333
+Europe,1420,other,63,0.75
+Europe,1420,textiles-woven,2,0.023809523809523808
+Europe,1430,Drawings,18,0.17475728155339806
+Europe,1430,Prints,10,0.0970873786407767
+Europe,1430,ceramics,14,0.13592233009708737
+Europe,1430,other,61,0.5922330097087378
+Europe,1440,Drawings,9,0.024725274725274724
+Europe,1440,Prints,47,0.12912087912087913
+Europe,1440,ceramics,1,0.0027472527472527475
+Europe,1440,other,307,0.8434065934065934
+Europe,1450,Drawings,14,0.04501607717041801
+Europe,1450,Prints,77,0.24758842443729903
+Europe,1450,ceramics,24,0.07717041800643087
+Europe,1450,other,195,0.6270096463022508
+Europe,1450,textiles-woven,1,0.003215434083601286
+Europe,1460,Drawings,12,0.024439918533604887
+Europe,1460,Prints,203,0.4134419551934827
+Europe,1460,ceramics,19,0.038696537678207736
+Europe,1460,other,257,0.5234215885947047
+Europe,1470,Drawings,13,0.014444444444444444
+Europe,1470,Prints,284,0.31555555555555553
+Europe,1470,ceramics,13,0.014444444444444444
+Europe,1470,other,590,0.6555555555555556
+Europe,1480,Drawings,18,0.030716723549488054
+Europe,1480,Prints,292,0.49829351535836175
+Europe,1480,ceramics,1,0.0017064846416382253
+Europe,1480,other,275,0.46928327645051193
+Europe,1490,Drawings,28,0.03125
+Europe,1490,Prints,372,0.41517857142857145
+Europe,1490,ceramics,45,0.05022321428571429
+Europe,1490,other,426,0.47544642857142855
+Europe,1490,textiles-woven,25,0.027901785714285716
+Europe,1500,Drawings,42,0.035623409669211195
+Europe,1500,Prints,626,0.5309584393553859
+Europe,1500,ceramics,6,0.005089058524173028
+Europe,1500,other,504,0.42748091603053434
+Europe,1500,textiles-woven,1,0.0008481764206955047
+Europe,1510,Drawings,282,0.17122040072859745
+Europe,1510,Prints,956,0.5804493017607771
+Europe,1510,other,409,0.24833029751062538
+Europe,1520,Drawings,60,0.0539568345323741
+Europe,1520,Prints,556,0.5
+Europe,1520,ceramics,11,0.009892086330935251
+Europe,1520,other,485,0.43615107913669066
+Europe,1530,Drawings,58,0.0914826498422713
+Europe,1530,Prints,322,0.5078864353312302
+Europe,1530,ceramics,1,0.0015772870662460567
+Europe,1530,other,253,0.3990536277602524
+Europe,1540,Drawings,89,0.06856702619414484
+Europe,1540,Prints,568,0.43759630200308164
+Europe,1540,other,641,0.4938366718027735
+Europe,1550,Drawings,60,0.06369426751592357
+Europe,1550,Prints,549,0.5828025477707006
+Europe,1550,ceramics,2,0.0021231422505307855
+Europe,1550,other,331,0.351380042462845
+Europe,1560,Drawings,48,0.09542743538767395
+Europe,1560,Prints,277,0.5506958250497018
+Europe,1560,other,178,0.3538767395626243
+Europe,1570,Drawings,61,0.10627177700348432
+Europe,1570,Prints,235,0.4094076655052265
+Europe,1570,other,278,0.4843205574912892
+Europe,1580,Drawings,94,0.15359477124183007
+Europe,1580,Prints,341,0.5571895424836601
+Europe,1580,other,177,0.28921568627450983
+Europe,1590,Drawings,75,0.08710801393728224
+Europe,1590,Prints,527,0.6120789779326364
+Europe,1590,ceramics,8,0.009291521486643438
+Europe,1590,other,251,0.29152148664343785
+Europe,1600,Drawings,84,0.10144927536231885
+Europe,1600,Prints,534,0.644927536231884
+Europe,1600,ceramics,2,0.0024154589371980675
+Europe,1600,other,208,0.25120772946859904
+Europe,1610,Drawings,92,0.076158940397351
+Europe,1610,Prints,999,0.8269867549668874
+Europe,1610,other,117,0.09685430463576158
+Europe,1620,Drawings,72,0.040156162855549356
+Europe,1620,Prints,1551,0.8650306748466258
+Europe,1620,other,170,0.09481316229782487
+Europe,1630,Drawings,110,0.06318207926479034
+Europe,1630,Prints,1475,0.8472142446869615
+Europe,1630,other,156,0.08960367604824813
+Europe,1640,Drawings,203,0.11913145539906103
+Europe,1640,Prints,1059,0.6214788732394366
+Europe,1640,other,442,0.25938967136150237
+Europe,1650,Drawings,95,0.05416191562143672
+Europe,1650,Prints,1478,0.8426453819840365
+Europe,1650,other,181,0.1031927023945268
+Europe,1660,Drawings,57,0.08662613981762918
+Europe,1660,Prints,468,0.7112462006079028
+Europe,1660,other,133,0.20212765957446807
+Europe,1670,Drawings,51,0.09444444444444444
+Europe,1670,Prints,280,0.5185185185185185
+Europe,1670,other,209,0.387037037037037
+Europe,1680,Drawings,32,0.11267605633802817
+Europe,1680,Prints,156,0.5492957746478874
+Europe,1680,other,96,0.3380281690140845
+Europe,1690,Drawings,33,0.10679611650485436
+Europe,1690,Prints,112,0.36245954692556637
+Europe,1690,ceramics,1,0.003236245954692557
+Europe,1690,other,163,0.5275080906148867
+Europe,1700,Drawings,56,0.0898876404494382
+Europe,1700,Prints,244,0.391653290529695
+Europe,1700,other,323,0.5184590690208668
+Europe,1710,Drawings,84,0.22459893048128343
+Europe,1710,Prints,103,0.27540106951871657
+Europe,1710,other,187,0.5
+Europe,1720,Drawings,118,0.1476846057571965
+Europe,1720,Prints,468,0.5857321652065082
+Europe,1720,other,213,0.2665832290362954
+Europe,1730,Drawings,134,0.1561771561771562
+Europe,1730,Prints,463,0.5396270396270396
+Europe,1730,other,261,0.3041958041958042
+Europe,1740,Drawings,227,0.11276701440635867
+Europe,1740,Prints,1085,0.53899652260308
+Europe,1740,other,701,0.3482364629905613
+Europe,1750,Drawings,322,0.2076079948420374
+Europe,1750,Prints,801,0.5164410058027079
+Europe,1750,other,428,0.2759509993552547
+Europe,1760,Drawings,327,0.18825561312607944
+Europe,1760,Prints,905,0.5210132412204951
+Europe,1760,other,505,0.29073114565342545
+Europe,1770,Drawings,285,0.12791741472172352
+Europe,1770,Prints,1422,0.6382405745062837
+Europe,1770,ceramics,1,0.0004488330341113106
+Europe,1770,other,520,0.2333931777378815
+Europe,1780,Drawings,246,0.15073529411764705
+Europe,1780,Prints,889,0.5447303921568627
+Europe,1780,other,497,0.30453431372549017
+Europe,1790,Drawings,371,0.175579744439186
+Europe,1790,Prints,1292,0.6114529105537151
+Europe,1790,other,450,0.2129673450070989
+Europe,1800,Drawings,172,0.08493827160493828
+Europe,1800,Prints,1431,0.7066666666666667
+Europe,1800,other,422,0.20839506172839506
+Europe,1810,Drawings,186,0.14508580343213728
+Europe,1810,Prints,721,0.5624024960998439
+Europe,1810,other,375,0.2925117004680187
+Europe,1820,Drawings,192,0.13492621222768797
+Europe,1820,Prints,830,0.5832747716092762
+Europe,1820,other,401,0.2817990161630358
+Europe,1830,Drawings,223,0.0759278175008512
+Europe,1830,Photographs,4,0.001361933946203609
+Europe,1830,Prints,2221,0.7562138236295539
+Europe,1830,other,489,0.16649642492339123
+Europe,1840,Drawings,292,0.07965084560829241
+Europe,1840,Photographs,59,0.01609383524277141
+Europe,1840,Prints,2751,0.7504091653027823
+Europe,1840,other,564,0.15384615384615385
+Europe,1850,Drawings,226,0.07100219918316054
+Europe,1850,Photographs,565,0.17750549795790135
+Europe,1850,Prints,1993,0.626138862708137
+Europe,1850,other,399,0.12535344015080113
+Europe,1860,Drawings,255,0.09868421052631579
+Europe,1860,Photographs,390,0.15092879256965944
+Europe,1860,Prints,1347,0.5212848297213623
+Europe,1860,other,592,0.22910216718266255
+Europe,1870,Drawings,323,0.14273088820150243
+Europe,1870,Photographs,119,0.052585064074237735
+Europe,1870,Prints,1466,0.6478126380910296
+Europe,1870,other,355,0.15687140963323024
+Europe,1880,Drawings,305,0.16371443907675792
+Europe,1880,Photographs,101,0.05421363392377885
+Europe,1880,Prints,1032,0.5539452495974235
+Europe,1880,other,425,0.2281266774020397
+Europe,1890,Drawings,479,0.13800057620282338
+Europe,1890,Photographs,86,0.024776721405934888
+Europe,1890,Prints,2133,0.6145203111495247
+Europe,1890,ceramics,1,0.0002881014116969173
+Europe,1890,other,772,0.22241428983002018
+Europe,1900,Drawings,284,0.13813229571984437
+Europe,1900,Photographs,113,0.05496108949416342
+Europe,1900,Prints,954,0.46400778210116733
+Europe,1900,other,705,0.3428988326848249
+Europe,1910,Drawings,1119,0.33086930810171494
+Europe,1910,Photographs,71,0.020993494973388527
+Europe,1910,Prints,1557,0.4603784742755766
+Europe,1910,ceramics,1,0.00029568302779420464
+Europe,1910,other,634,0.18746303962152572
+Europe,1920,Drawings,307,0.09227532311391644
+Europe,1920,Photographs,103,0.03095882176134656
+Europe,1920,Prints,2178,0.654643823264202
+Europe,1920,other,739,0.22212203186053503
+Europe,1930,Drawings,159,0.07618591279348347
+Europe,1930,Photographs,267,0.12793483469094394
+Europe,1930,Prints,1091,0.5227599425011978
+Europe,1930,other,570,0.2731193100143747
+Europe,1940,Drawings,99,0.10465116279069768
+Europe,1940,Photographs,91,0.09619450317124736
+Europe,1940,Prints,480,0.507399577167019
+Europe,1940,other,276,0.2917547568710359
+Europe,1950,Drawings,43,0.03348909657320872
+Europe,1950,Photographs,88,0.06853582554517133
+Europe,1950,Prints,653,0.5085669781931464
+Europe,1950,ceramics,2,0.001557632398753894
+Europe,1950,other,498,0.3878504672897196
+Europe,1960,Drawings,36,0.0375
+Europe,1960,Photographs,88,0.09166666666666666
+Europe,1960,Prints,493,0.5135416666666667
+Europe,1960,other,343,0.3572916666666667
+Europe,1970,Drawings,35,0.07306889352818371
+Europe,1970,Photographs,101,0.21085594989561587
+Europe,1970,Prints,229,0.4780793319415449
+Europe,1970,other,114,0.23799582463465555
+Europe,1980,Drawings,56,0.08370702541106129
+Europe,1980,Photographs,185,0.2765321375186846
+Europe,1980,Prints,197,0.2944693572496263
+Europe,1980,other,231,0.3452914798206278
+Europe,1990,Drawings,28,0.07
+Europe,1990,Photographs,103,0.2575
+Europe,1990,Prints,160,0.4
+Europe,1990,other,109,0.2725
+Europe,2000,Drawings,16,0.06779661016949153
+Europe,2000,Photographs,89,0.3771186440677966
+Europe,2000,Prints,67,0.2838983050847458
+Europe,2000,other,64,0.2711864406779661
+Europe,2010,Drawings,3,0.028846153846153848
+Europe,2010,Photographs,39,0.375
+Europe,2010,Prints,14,0.1346153846153846
+Europe,2010,other,48,0.46153846153846156
+Europe,2020,Photographs,3,0.42857142857142855
+Europe,2020,Prints,2,0.2857142857142857
+Europe,2020,other,2,0.2857142857142857
+Latin America & Caribbean,-1000,other,3,1.0
+Latin America & Caribbean,-900,other,10,1.0
+Latin America & Caribbean,-800,other,69,1.0
+Latin America & Caribbean,-780,other,1,1.0
+Latin America & Caribbean,-750,other,1,1.0
+Latin America & Caribbean,-700,other,8,1.0
+Latin America & Caribbean,-650,other,1,1.0
+Latin America & Caribbean,-600,other,2,1.0
+Latin America & Caribbean,-550,other,6,1.0
+Latin America & Caribbean,-500,other,20,1.0
+Latin America & Caribbean,-480,other,1,1.0
+Latin America & Caribbean,-430,other,1,1.0
+Latin America & Caribbean,-400,other,63,0.984375
+Latin America & Caribbean,-400,textiles-woven,1,0.015625
+Latin America & Caribbean,-380,other,2,1.0
+Latin America & Caribbean,-360,other,3,1.0
+Latin America & Caribbean,-350,other,23,1.0
+Latin America & Caribbean,-330,other,2,1.0
+Latin America & Caribbean,-300,other,110,0.9734513274336283
+Latin America & Caribbean,-300,textiles-woven,3,0.02654867256637168
+Latin America & Caribbean,-250,other,2,1.0
+Latin America & Caribbean,-200,other,91,0.8198198198198198
+Latin America & Caribbean,-200,textiles-woven,20,0.18018018018018017
+Latin America & Caribbean,-180,textiles-woven,1,1.0
+Latin America & Caribbean,-150,other,7,1.0
+Latin America & Caribbean,-100,other,130,0.6632653061224489
+Latin America & Caribbean,-100,textiles-woven,66,0.336734693877551
+Latin America & Caribbean,-80,other,3,1.0
+Latin America & Caribbean,-50,other,8,1.0
+Latin America & Caribbean,-10,other,13,0.7222222222222222
+Latin America & Caribbean,-10,textiles-woven,5,0.2777777777777778
+Latin America & Caribbean,0,other,8,1.0
+Latin America & Caribbean,20,other,2,1.0
+Latin America & Caribbean,50,other,1,1.0
+Latin America & Caribbean,60,other,5,1.0
+Latin America & Caribbean,100,other,29,0.9666666666666667
+Latin America & Caribbean,100,textiles-woven,1,0.03333333333333333
+Latin America & Caribbean,120,other,3,1.0
+Latin America & Caribbean,150,other,4,1.0
+Latin America & Caribbean,200,other,240,0.9917355371900827
+Latin America & Caribbean,200,textiles-woven,2,0.008264462809917356
+Latin America & Caribbean,220,other,8,0.8
+Latin America & Caribbean,220,textiles-woven,2,0.2
+Latin America & Caribbean,250,other,3,1.0
+Latin America & Caribbean,270,other,1,1.0
+Latin America & Caribbean,300,other,143,1.0
+Latin America & Caribbean,320,other,19,1.0
+Latin America & Caribbean,350,other,14,1.0
+Latin America & Caribbean,370,other,14,1.0
+Latin America & Caribbean,390,other,1,1.0
+Latin America & Caribbean,400,other,93,1.0
+Latin America & Caribbean,420,other,10,1.0
+Latin America & Caribbean,450,other,8,1.0
+Latin America & Caribbean,470,other,2,1.0
+Latin America & Caribbean,500,other,116,1.0
+Latin America & Caribbean,520,other,1,1.0
+Latin America & Caribbean,550,other,1,0.5
+Latin America & Caribbean,550,textiles-woven,1,0.5
+Latin America & Caribbean,570,other,2,1.0
+Latin America & Caribbean,590,other,1,1.0
+Latin America & Caribbean,600,other,122,0.9838709677419355
+Latin America & Caribbean,600,textiles-woven,2,0.016129032258064516
+Latin America & Caribbean,620,other,2,0.6666666666666666
+Latin America & Caribbean,620,textiles-woven,1,0.3333333333333333
+Latin America & Caribbean,650,other,2,1.0
+Latin America & Caribbean,670,other,2,1.0
+Latin America & Caribbean,690,other,4,1.0
+Latin America & Caribbean,700,other,558,0.9087947882736156
+Latin America & Caribbean,700,textiles-woven,56,0.09120521172638436
+Latin America & Caribbean,720,other,1,0.5
+Latin America & Caribbean,720,textiles-woven,1,0.5
+Latin America & Caribbean,750,other,21,1.0
+Latin America & Caribbean,760,other,27,1.0
+Latin America & Caribbean,770,other,18,1.0
+Latin America & Caribbean,800,other,211,0.9768518518518519
+Latin America & Caribbean,800,textiles-woven,5,0.023148148148148147
+Latin America & Caribbean,820,other,1,1.0
+Latin America & Caribbean,830,other,2,1.0
+Latin America & Caribbean,850,other,9,0.75
+Latin America & Caribbean,850,textiles-woven,3,0.25
+Latin America & Caribbean,890,other,3,1.0
+Latin America & Caribbean,900,ceramics,1,0.00625
+Latin America & Caribbean,900,other,127,0.79375
+Latin America & Caribbean,900,textiles-woven,32,0.2
+Latin America & Caribbean,920,other,1,1.0
+Latin America & Caribbean,950,other,2,1.0
+Latin America & Caribbean,960,other,3,1.0
+Latin America & Caribbean,970,other,3,1.0
+Latin America & Caribbean,990,other,2,1.0
+Latin America & Caribbean,1000,other,79,0.8061224489795918
+Latin America & Caribbean,1000,textiles-woven,19,0.19387755102040816
+Latin America & Caribbean,1020,other,10,1.0
+Latin America & Caribbean,1030,other,1,1.0
+Latin America & Caribbean,1050,other,2,1.0
+Latin America & Caribbean,1080,other,5,1.0
+Latin America & Caribbean,1100,other,33,0.9705882352941176
+Latin America & Caribbean,1100,textiles-woven,1,0.029411764705882353
+Latin America & Caribbean,1120,other,1,1.0
+Latin America & Caribbean,1130,other,3,1.0
+Latin America & Caribbean,1150,other,1,1.0
+Latin America & Caribbean,1180,other,11,1.0
+Latin America & Caribbean,1190,other,6,1.0
+Latin America & Caribbean,1200,other,135,0.9642857142857143
+Latin America & Caribbean,1200,textiles-woven,5,0.03571428571428571
+Latin America & Caribbean,1230,other,2,1.0
+Latin America & Caribbean,1250,other,28,1.0
+Latin America & Caribbean,1260,other,5,1.0
+Latin America & Caribbean,1300,other,87,0.87
+Latin America & Caribbean,1300,textiles-woven,13,0.13
+Latin America & Caribbean,1310,other,4,1.0
+Latin America & Caribbean,1340,other,1,1.0
+Latin America & Caribbean,1350,other,26,1.0
+Latin America & Caribbean,1400,other,35,0.6730769230769231
+Latin America & Caribbean,1400,textiles-woven,17,0.3269230769230769
+Latin America & Caribbean,1410,other,3,1.0
+Latin America & Caribbean,1420,other,9,1.0
+Latin America & Caribbean,1430,other,3,1.0
+Latin America & Caribbean,1450,other,2,0.5
+Latin America & Caribbean,1450,textiles-woven,2,0.5
+Latin America & Caribbean,1460,other,13,0.9285714285714286
+Latin America & Caribbean,1460,textiles-woven,1,0.07142857142857142
+Latin America & Caribbean,1470,other,30,0.9375
+Latin America & Caribbean,1470,textiles-woven,2,0.0625
+Latin America & Caribbean,1480,other,1,1.0
+Latin America & Caribbean,1490,other,3,1.0
+Latin America & Caribbean,1500,other,417,0.7554347826086957
+Latin America & Caribbean,1500,textiles-woven,135,0.24456521739130435
+Latin America & Caribbean,1520,other,26,0.9285714285714286
+Latin America & Caribbean,1520,textiles-woven,2,0.07142857142857142
+Latin America & Caribbean,1530,other,10,0.7142857142857143
+Latin America & Caribbean,1530,textiles-woven,4,0.2857142857142857
+Latin America & Caribbean,1540,other,22,0.5365853658536586
+Latin America & Caribbean,1540,textiles-woven,19,0.4634146341463415
+Latin America & Caribbean,1550,other,93,0.9393939393939394
+Latin America & Caribbean,1550,textiles-woven,6,0.06060606060606061
+Latin America & Caribbean,1560,other,1,1.0
+Latin America & Caribbean,1570,other,46,1.0
+Latin America & Caribbean,1580,other,162,1.0
+Latin America & Caribbean,1590,other,14,1.0
+Latin America & Caribbean,1600,other,747,0.9701298701298702
+Latin America & Caribbean,1600,textiles-woven,23,0.02987012987012987
+Latin America & Caribbean,1620,other,1,0.5
+Latin America & Caribbean,1620,textiles-woven,1,0.5
+Latin America & Caribbean,1630,textiles-woven,1,1.0
+Latin America & Caribbean,1650,other,2,1.0
+Latin America & Caribbean,1670,other,1,1.0
+Latin America & Caribbean,1700,other,12,0.9230769230769231
+Latin America & Caribbean,1700,textiles-woven,1,0.07692307692307693
+Latin America & Caribbean,1720,textiles-woven,2,1.0
+Latin America & Caribbean,1750,other,1,1.0
+Latin America & Caribbean,1800,other,15,0.7894736842105263
+Latin America & Caribbean,1800,textiles-woven,4,0.21052631578947367
+Latin America & Caribbean,1810,other,1,1.0
+Latin America & Caribbean,1820,other,1,0.14285714285714285
+Latin America & Caribbean,1820,textiles-woven,6,0.8571428571428571
+Latin America & Caribbean,1830,other,3,1.0
+Latin America & Caribbean,1840,other,10,1.0
+Latin America & Caribbean,1850,other,2,0.5
+Latin America & Caribbean,1850,textiles-woven,2,0.5
+Latin America & Caribbean,1860,other,1,0.25
+Latin America & Caribbean,1860,textiles-woven,3,0.75
+Latin America & Caribbean,1870,textiles-woven,1,1.0
+Latin America & Caribbean,1880,other,11,1.0
+Latin America & Caribbean,1890,Prints,1,0.05
+Latin America & Caribbean,1890,other,16,0.8
+Latin America & Caribbean,1890,textiles-woven,3,0.15
+Latin America & Caribbean,1900,Drawings,1,0.011235955056179775
+Latin America & Caribbean,1900,Prints,3,0.033707865168539325
+Latin America & Caribbean,1900,other,69,0.7752808988764045
+Latin America & Caribbean,1900,textiles-woven,16,0.1797752808988764
+Latin America & Caribbean,1910,Drawings,2,0.15384615384615385
+Latin America & Caribbean,1910,Prints,1,0.07692307692307693
+Latin America & Caribbean,1910,other,9,0.6923076923076923
+Latin America & Caribbean,1910,textiles-woven,1,0.07692307692307693
+Latin America & Caribbean,1920,Drawings,2,0.0273972602739726
+Latin America & Caribbean,1920,Photographs,4,0.0547945205479452
+Latin America & Caribbean,1920,Prints,15,0.2054794520547945
+Latin America & Caribbean,1920,other,15,0.2054794520547945
+Latin America & Caribbean,1920,textiles-woven,37,0.5068493150684932
+Latin America & Caribbean,1930,Drawings,8,0.10666666666666667
+Latin America & Caribbean,1930,Photographs,28,0.37333333333333335
+Latin America & Caribbean,1930,Prints,29,0.38666666666666666
+Latin America & Caribbean,1930,other,10,0.13333333333333333
+Latin America & Caribbean,1940,Drawings,5,0.050505050505050504
+Latin America & Caribbean,1940,Photographs,16,0.16161616161616163
+Latin America & Caribbean,1940,Prints,16,0.16161616161616163
+Latin America & Caribbean,1940,other,62,0.6262626262626263
+Latin America & Caribbean,1950,Drawings,5,0.10204081632653061
+Latin America & Caribbean,1950,Photographs,4,0.08163265306122448
+Latin America & Caribbean,1950,Prints,32,0.6530612244897959
+Latin America & Caribbean,1950,other,4,0.08163265306122448
+Latin America & Caribbean,1950,textiles-woven,4,0.08163265306122448
+Latin America & Caribbean,1960,Drawings,1,0.01282051282051282
+Latin America & Caribbean,1960,Photographs,16,0.20512820512820512
+Latin America & Caribbean,1960,Prints,40,0.5128205128205128
+Latin America & Caribbean,1960,other,21,0.2692307692307692
+Latin America & Caribbean,1970,Photographs,44,0.7586206896551724
+Latin America & Caribbean,1970,Prints,5,0.08620689655172414
+Latin America & Caribbean,1970,other,9,0.15517241379310345
+Latin America & Caribbean,1980,Drawings,1,0.013157894736842105
+Latin America & Caribbean,1980,Photographs,58,0.7631578947368421
+Latin America & Caribbean,1980,Prints,3,0.039473684210526314
+Latin America & Caribbean,1980,other,12,0.15789473684210525
+Latin America & Caribbean,1980,textiles-woven,2,0.02631578947368421
+Latin America & Caribbean,1990,Photographs,65,0.6132075471698113
+Latin America & Caribbean,1990,Prints,2,0.018867924528301886
+Latin America & Caribbean,1990,other,37,0.3490566037735849
+Latin America & Caribbean,1990,textiles-woven,2,0.018867924528301886
+Latin America & Caribbean,2000,Photographs,42,0.4827586206896552
+Latin America & Caribbean,2000,Prints,9,0.10344827586206896
+Latin America & Caribbean,2000,other,23,0.26436781609195403
+Latin America & Caribbean,2000,textiles-woven,13,0.14942528735632185
+Latin America & Caribbean,2010,Photographs,24,0.6857142857142857
+Latin America & Caribbean,2010,Prints,1,0.02857142857142857
+Latin America & Caribbean,2010,other,10,0.2857142857142857
+Latin America & Caribbean,2020,other,8,0.11594202898550725
+Latin America & Caribbean,2020,textiles-woven,61,0.8840579710144928
+Middle East & North Africa,-1000,other,12,1.0
+Middle East & North Africa,-980,other,8,1.0
+Middle East & North Africa,-950,other,17,1.0
+Middle East & North Africa,-940,other,5,1.0
+Middle East & North Africa,-900,other,15,1.0
+Middle East & North Africa,-870,other,1,1.0
+Middle East & North Africa,-850,other,2,1.0
+Middle East & North Africa,-830,other,20,1.0
+Middle East & North Africa,-800,other,4,1.0
+Middle East & North Africa,-750,other,3,1.0
+Middle East & North Africa,-740,other,1,1.0
+Middle East & North Africa,-700,other,3,1.0
+Middle East & North Africa,-690,other,136,1.0
+Middle East & North Africa,-660,other,16,1.0
+Middle East & North Africa,-650,other,1,1.0
+Middle East & North Africa,-640,other,2,1.0
+Middle East & North Africa,-620,other,1,1.0
+Middle East & North Africa,-600,other,43,1.0
+Middle East & North Africa,-530,other,6,1.0
+Middle East & North Africa,-510,other,2,1.0
+Middle East & North Africa,-500,other,3,1.0
+Middle East & North Africa,-490,other,1,1.0
+Middle East & North Africa,-480,other,2,1.0
+Middle East & North Africa,-470,other,2,1.0
+Middle East & North Africa,-450,other,2,1.0
+Middle East & North Africa,-440,other,6,1.0
+Middle East & North Africa,-430,other,1,1.0
+Middle East & North Africa,-420,other,1,1.0
+Middle East & North Africa,-380,other,4,1.0
+Middle East & North Africa,-370,other,2,1.0
+Middle East & North Africa,-360,other,1,1.0
+Middle East & North Africa,-350,other,9,1.0
+Middle East & North Africa,-320,other,3,1.0
+Middle East & North Africa,-310,other,4,1.0
+Middle East & North Africa,-280,other,3,1.0
+Middle East & North Africa,-270,other,3,1.0
+Middle East & North Africa,-250,other,1,1.0
+Middle East & North Africa,-210,other,9,1.0
+Middle East & North Africa,-170,other,29,1.0
+Middle East & North Africa,-150,other,2,1.0
+Middle East & North Africa,-140,other,1,1.0
+Middle East & North Africa,-90,other,3,1.0
+Middle East & North Africa,-60,other,1,1.0
+Middle East & North Africa,-30,other,1,1.0
+Middle East & North Africa,0,ceramics,1,0.05263157894736842
+Middle East & North Africa,0,other,17,0.8947368421052632
+Middle East & North Africa,0,textiles-woven,1,0.05263157894736842
+Middle East & North Africa,10,other,3,1.0
+Middle East & North Africa,20,other,1,1.0
+Middle East & North Africa,30,other,4,1.0
+Middle East & North Africa,40,other,3,1.0
+Middle East & North Africa,50,other,1,1.0
+Middle East & North Africa,90,other,1,1.0
+Middle East & North Africa,100,other,2,1.0
+Middle East & North Africa,120,other,1,1.0
+Middle East & North Africa,140,other,2,1.0
+Middle East & North Africa,160,other,1,1.0
+Middle East & North Africa,180,other,17,1.0
+Middle East & North Africa,190,ceramics,4,0.36363636363636365
+Middle East & North Africa,190,other,7,0.6363636363636364
+Middle East & North Africa,230,other,1,1.0
+Middle East & North Africa,240,other,11,1.0
+Middle East & North Africa,250,other,5,1.0
+Middle East & North Africa,260,other,3,1.0
+Middle East & North Africa,290,ceramics,1,0.043478260869565216
+Middle East & North Africa,290,other,22,0.9565217391304348
+Middle East & North Africa,300,other,10,1.0
+Middle East & North Africa,320,other,1,1.0
+Middle East & North Africa,340,other,2,1.0
+Middle East & North Africa,360,other,15,1.0
+Middle East & North Africa,380,other,1,1.0
+Middle East & North Africa,390,ceramics,6,0.011385199240986717
+Middle East & North Africa,390,other,521,0.9886148007590133
+Middle East & North Africa,400,other,4,1.0
+Middle East & North Africa,410,other,1,1.0
+Middle East & North Africa,420,other,2,1.0
+Middle East & North Africa,430,other,5,1.0
+Middle East & North Africa,440,other,21,1.0
+Middle East & North Africa,450,other,2,1.0
+Middle East & North Africa,470,ceramics,1,1.0
+Middle East & North Africa,480,other,4,1.0
+Middle East & North Africa,490,ceramics,2,0.004830917874396135
+Middle East & North Africa,490,other,401,0.9685990338164251
+Middle East & North Africa,490,textiles-woven,11,0.026570048309178744
+Middle East & North Africa,500,other,9,1.0
+Middle East & North Africa,520,other,2,1.0
+Middle East & North Africa,530,other,1,1.0
+Middle East & North Africa,540,other,52,1.0
+Middle East & North Africa,560,other,5,1.0
+Middle East & North Africa,580,other,1,1.0
+Middle East & North Africa,590,ceramics,36,0.08108108108108109
+Middle East & North Africa,590,other,402,0.9054054054054054
+Middle East & North Africa,590,textiles-woven,6,0.013513513513513514
+Middle East & North Africa,600,ceramics,1,0.1111111111111111
+Middle East & North Africa,600,other,8,0.8888888888888888
+Middle East & North Africa,610,other,3,1.0
+Middle East & North Africa,620,ceramics,2,0.16666666666666666
+Middle East & North Africa,620,other,10,0.8333333333333334
+Middle East & North Africa,640,other,14,1.0
+Middle East & North Africa,650,other,20,1.0
+Middle East & North Africa,660,other,1,1.0
+Middle East & North Africa,670,other,2,1.0
+Middle East & North Africa,680,other,1,1.0
+Middle East & North Africa,690,ceramics,12,0.031914893617021274
+Middle East & North Africa,690,other,354,0.9414893617021277
+Middle East & North Africa,690,textiles-woven,10,0.026595744680851064
+Middle East & North Africa,700,other,16,1.0
+Middle East & North Africa,710,other,1,1.0
+Middle East & North Africa,720,other,2,1.0
+Middle East & North Africa,740,other,16,1.0
+Middle East & North Africa,750,ceramics,3,0.6
+Middle East & North Africa,750,other,2,0.4
+Middle East & North Africa,760,other,3,1.0
+Middle East & North Africa,770,other,23,1.0
+Middle East & North Africa,780,other,15,1.0
+Middle East & North Africa,790,ceramics,13,0.051181102362204724
+Middle East & North Africa,790,other,235,0.9251968503937008
+Middle East & North Africa,790,textiles-woven,6,0.023622047244094488
+Middle East & North Africa,800,other,30,1.0
+Middle East & North Africa,810,other,25,1.0
+Middle East & North Africa,820,ceramics,14,0.4117647058823529
+Middle East & North Africa,820,other,20,0.5882352941176471
+Middle East & North Africa,830,other,29,1.0
+Middle East & North Africa,840,other,174,1.0
+Middle East & North Africa,850,ceramics,20,0.7407407407407407
+Middle East & North Africa,850,other,7,0.25925925925925924
+Middle East & North Africa,880,other,3,1.0
+Middle East & North Africa,890,ceramics,167,0.45257452574525747
+Middle East & North Africa,890,other,178,0.4823848238482385
+Middle East & North Africa,890,textiles-woven,24,0.06504065040650407
+Middle East & North Africa,900,other,6,0.75
+Middle East & North Africa,900,textiles-woven,2,0.25
+Middle East & North Africa,910,other,5,1.0
+Middle East & North Africa,920,ceramics,25,0.6944444444444444
+Middle East & North Africa,920,other,10,0.2777777777777778
+Middle East & North Africa,920,textiles-woven,1,0.027777777777777776
+Middle East & North Africa,930,other,12,1.0
+Middle East & North Africa,940,Drawings,1,0.1
+Middle East & North Africa,940,other,9,0.9
+Middle East & North Africa,950,ceramics,1,0.07692307692307693
+Middle East & North Africa,950,other,11,0.8461538461538461
+Middle East & North Africa,950,textiles-woven,1,0.07692307692307693
+Middle East & North Africa,960,other,2,0.4
+Middle East & North Africa,960,textiles-woven,3,0.6
+Middle East & North Africa,970,other,7,0.7777777777777778
+Middle East & North Africa,970,textiles-woven,2,0.2222222222222222
+Middle East & North Africa,980,other,7,1.0
+Middle East & North Africa,990,ceramics,418,0.4201005025125628
+Middle East & North Africa,990,other,538,0.5407035175879397
+Middle East & North Africa,990,textiles-woven,39,0.03919597989949749
+Middle East & North Africa,1000,other,62,0.96875
+Middle East & North Africa,1000,textiles-woven,2,0.03125
+Middle East & North Africa,1010,other,70,0.9859154929577465
+Middle East & North Africa,1010,textiles-woven,1,0.014084507042253521
+Middle East & North Africa,1020,ceramics,5,0.125
+Middle East & North Africa,1020,other,33,0.825
+Middle East & North Africa,1020,textiles-woven,2,0.05
+Middle East & North Africa,1030,other,7,1.0
+Middle East & North Africa,1040,other,19,1.0
+Middle East & North Africa,1050,other,16,0.9411764705882353
+Middle East & North Africa,1050,textiles-woven,1,0.058823529411764705
+Middle East & North Africa,1060,other,2,0.25
+Middle East & North Africa,1060,textiles-woven,6,0.75
+Middle East & North Africa,1070,other,4,0.4
+Middle East & North Africa,1070,textiles-woven,6,0.6
+Middle East & North Africa,1080,other,10,0.8333333333333334
+Middle East & North Africa,1080,textiles-woven,2,0.16666666666666666
+Middle East & North Africa,1090,ceramics,103,0.25
+Middle East & North Africa,1090,other,256,0.6213592233009708
+Middle East & North Africa,1090,textiles-woven,53,0.12864077669902912
+Middle East & North Africa,1100,other,3,1.0
+Middle East & North Africa,1110,other,5,0.5
+Middle East & North Africa,1110,textiles-woven,5,0.5
+Middle East & North Africa,1120,ceramics,7,0.3888888888888889
+Middle East & North Africa,1120,other,8,0.4444444444444444
+Middle East & North Africa,1120,textiles-woven,3,0.16666666666666666
+Middle East & North Africa,1130,other,6,1.0
+Middle East & North Africa,1140,other,27,1.0
+Middle East & North Africa,1150,ceramics,2,0.3333333333333333
+Middle East & North Africa,1150,other,4,0.6666666666666666
+Middle East & North Africa,1160,other,9,1.0
+Middle East & North Africa,1170,ceramics,6,0.42857142857142855
+Middle East & North Africa,1170,other,8,0.5714285714285714
+Middle East & North Africa,1180,ceramics,1,0.16666666666666666
+Middle East & North Africa,1180,other,5,0.8333333333333334
+Middle East & North Africa,1190,ceramics,556,0.5803757828810021
+Middle East & North Africa,1190,other,350,0.3653444676409186
+Middle East & North Africa,1190,textiles-woven,52,0.054279749478079335
+Middle East & North Africa,1200,other,4,1.0
+Middle East & North Africa,1210,ceramics,1,0.2
+Middle East & North Africa,1210,other,4,0.8
+Middle East & North Africa,1220,ceramics,35,0.4666666666666667
+Middle East & North Africa,1220,other,39,0.52
+Middle East & North Africa,1220,textiles-woven,1,0.013333333333333334
+Middle East & North Africa,1230,ceramics,2,0.4
+Middle East & North Africa,1230,other,3,0.6
+Middle East & North Africa,1240,ceramics,2,0.1
+Middle East & North Africa,1240,other,18,0.9
+Middle East & North Africa,1250,ceramics,17,0.6538461538461539
+Middle East & North Africa,1250,other,9,0.34615384615384615
+Middle East & North Africa,1260,other,2,1.0
+Middle East & North Africa,1270,other,2,1.0
+Middle East & North Africa,1280,other,2,1.0
+Middle East & North Africa,1290,ceramics,316,0.5039872408293461
+Middle East & North Africa,1290,other,308,0.49122807017543857
+Middle East & North Africa,1290,textiles-woven,3,0.004784688995215311
+Middle East & North Africa,1300,ceramics,1,0.0005841121495327102
+Middle East & North Africa,1300,other,1711,0.9994158878504673
+Middle East & North Africa,1310,other,5,1.0
+Middle East & North Africa,1320,ceramics,4,0.06451612903225806
+Middle East & North Africa,1320,other,56,0.9032258064516129
+Middle East & North Africa,1320,textiles-woven,2,0.03225806451612903
+Middle East & North Africa,1330,other,10,1.0
+Middle East & North Africa,1340,Drawings,3,0.13043478260869565
+Middle East & North Africa,1340,other,20,0.8695652173913043
+Middle East & North Africa,1350,ceramics,9,0.28125
+Middle East & North Africa,1350,other,23,0.71875
+Middle East & North Africa,1360,other,67,1.0
+Middle East & North Africa,1370,ceramics,1,0.2
+Middle East & North Africa,1370,other,4,0.8
+Middle East & North Africa,1380,ceramics,1,0.3333333333333333
+Middle East & North Africa,1380,other,2,0.6666666666666666
+Middle East & North Africa,1390,Drawings,5,0.011235955056179775
+Middle East & North Africa,1390,ceramics,195,0.43820224719101125
+Middle East & North Africa,1390,other,236,0.5303370786516854
+Middle East & North Africa,1390,textiles-woven,9,0.020224719101123594
+Middle East & North Africa,1400,Drawings,5,0.5555555555555556
+Middle East & North Africa,1400,ceramics,1,0.1111111111111111
+Middle East & North Africa,1400,other,3,0.3333333333333333
+Middle East & North Africa,1420,ceramics,2,0.2857142857142857
+Middle East & North Africa,1420,other,5,0.7142857142857143
+Middle East & North Africa,1430,other,3,1.0
+Middle East & North Africa,1440,other,12,1.0
+Middle East & North Africa,1450,ceramics,1,0.05
+Middle East & North Africa,1450,other,19,0.95
+Middle East & North Africa,1460,other,5,1.0
+Middle East & North Africa,1470,ceramics,2,0.18181818181818182
+Middle East & North Africa,1470,other,9,0.8181818181818182
+Middle East & North Africa,1480,other,5,1.0
+Middle East & North Africa,1490,ceramics,394,0.777120315581854
+Middle East & North Africa,1490,other,110,0.21696252465483234
+Middle East & North Africa,1490,textiles-woven,3,0.005917159763313609
+Middle East & North Africa,1500,other,7,1.0
+Middle East & North Africa,1510,other,13,1.0
+Middle East & North Africa,1520,other,15,1.0
+Middle East & North Africa,1530,other,8,1.0
+Middle East & North Africa,1540,other,9,1.0
+Middle East & North Africa,1550,other,67,0.9852941176470589
+Middle East & North Africa,1550,textiles-woven,1,0.014705882352941176
+Middle East & North Africa,1560,Drawings,1,0.02702702702702703
+Middle East & North Africa,1560,other,36,0.972972972972973
+Middle East & North Africa,1570,other,31,0.96875
+Middle East & North Africa,1570,textiles-woven,1,0.03125
+Middle East & North Africa,1580,Drawings,1,0.25
+Middle East & North Africa,1580,other,3,0.75
+Middle East & North Africa,1590,ceramics,87,0.38495575221238937
+Middle East & North Africa,1590,other,130,0.5752212389380531
+Middle East & North Africa,1590,textiles-woven,9,0.03982300884955752
+Middle East & North Africa,1600,other,23,1.0
+Middle East & North Africa,1610,other,14,1.0
+Middle East & North Africa,1620,ceramics,2,0.02666666666666667
+Middle East & North Africa,1620,other,68,0.9066666666666666
+Middle East & North Africa,1620,textiles-woven,5,0.06666666666666667
+Middle East & North Africa,1630,other,4,1.0
+Middle East & North Africa,1640,Drawings,1,0.0625
+Middle East & North Africa,1640,other,15,0.9375
+Middle East & North Africa,1650,ceramics,9,0.23684210526315788
+Middle East & North Africa,1650,other,26,0.6842105263157895
+Middle East & North Africa,1650,textiles-woven,3,0.07894736842105263
+Middle East & North Africa,1660,ceramics,2,0.6666666666666666
+Middle East & North Africa,1660,other,1,0.3333333333333333
+Middle East & North Africa,1670,ceramics,2,0.13333333333333333
+Middle East & North Africa,1670,other,12,0.8
+Middle East & North Africa,1670,textiles-woven,1,0.06666666666666667
+Middle East & North Africa,1680,other,6,1.0
+Middle East & North Africa,1690,ceramics,119,0.39403973509933776
+Middle East & North Africa,1690,other,165,0.5463576158940397
+Middle East & North Africa,1690,textiles-woven,18,0.059602649006622516
+Middle East & North Africa,1700,other,5,1.0
+Middle East & North Africa,1710,other,1,1.0
+Middle East & North Africa,1720,ceramics,4,0.2222222222222222
+Middle East & North Africa,1720,other,12,0.6666666666666666
+Middle East & North Africa,1720,textiles-woven,2,0.1111111111111111
+Middle East & North Africa,1730,other,3,1.0
+Middle East & North Africa,1740,other,29,1.0
+Middle East & North Africa,1750,ceramics,6,0.8571428571428571
+Middle East & North Africa,1750,other,1,0.14285714285714285
+Middle East & North Africa,1760,other,2,1.0
+Middle East & North Africa,1770,Drawings,1,0.25
+Middle East & North Africa,1770,other,3,0.75
+Middle East & North Africa,1780,other,3,1.0
+Middle East & North Africa,1790,ceramics,39,0.20207253886010362
+Middle East & North Africa,1790,other,139,0.7202072538860104
+Middle East & North Africa,1790,textiles-woven,15,0.07772020725388601
+Middle East & North Africa,1810,other,6,1.0
+Middle East & North Africa,1820,other,22,0.9166666666666666
+Middle East & North Africa,1820,textiles-woven,2,0.08333333333333333
+Middle East & North Africa,1830,other,4,1.0
+Middle East & North Africa,1840,other,25,1.0
+Middle East & North Africa,1850,other,12,1.0
+Middle East & North Africa,1860,other,9,1.0
+Middle East & North Africa,1870,other,14,1.0
+Middle East & North Africa,1880,other,27,1.0
+Middle East & North Africa,1890,ceramics,10,0.02544529262086514
+Middle East & North Africa,1890,other,373,0.9491094147582697
+Middle East & North Africa,1890,textiles-woven,10,0.02544529262086514
+Middle East & North Africa,1900,ceramics,1,0.0125
+Middle East & North Africa,1900,other,79,0.9875
+Middle East & North Africa,1910,other,6,1.0
+Middle East & North Africa,1920,other,40,0.9090909090909091
+Middle East & North Africa,1920,textiles-woven,4,0.09090909090909091
+Middle East & North Africa,1930,other,17,1.0
+Middle East & North Africa,1940,other,22,1.0
+Middle East & North Africa,1950,ceramics,1,0.043478260869565216
+Middle East & North Africa,1950,other,22,0.9565217391304348
+Middle East & North Africa,1960,other,4,1.0
+Middle East & North Africa,1970,other,15,1.0
+Middle East & North Africa,1980,Photographs,1,0.2
+Middle East & North Africa,1980,other,4,0.8
+Middle East & North Africa,1990,ceramics,1,0.04
+Middle East & North Africa,1990,other,24,0.96
+Middle East & North Africa,2000,Drawings,1,0.2
+Middle East & North Africa,2000,Photographs,1,0.2
+Middle East & North Africa,2000,other,3,0.6
+Middle East & North Africa,2010,Drawings,1,0.07142857142857142
+Middle East & North Africa,2010,Photographs,10,0.7142857142857143
+Middle East & North Africa,2010,other,3,0.21428571428571427
+North America,-500,other,3,1.0
+North America,-20,other,1,1.0
+North America,0,other,4,1.0
+North America,20,other,1,1.0
+North America,100,other,2,1.0
+North America,120,other,1,1.0
+North America,300,other,4,1.0
+North America,350,other,1,1.0
+North America,400,other,9,1.0
+North America,500,other,1,1.0
+North America,600,other,1,1.0
+North America,900,other,1,1.0
+North America,930,other,1,1.0
+North America,950,other,5,1.0
+North America,960,other,13,1.0
+North America,970,Photographs,3,0.75
+North America,970,Prints,1,0.25
+North America,980,Prints,1,1.0
+North America,990,Photographs,1,1.0
+North America,1000,other,10,1.0
+North America,1030,Prints,1,1.0
+North America,1040,other,1,1.0
+North America,1050,other,1,1.0
+North America,1100,other,4,1.0
+North America,1150,other,12,1.0
+North America,1200,other,16,1.0
+North America,1250,other,3,1.0
+North America,1290,other,1,1.0
+North America,1300,other,2,1.0
+North America,1390,other,2,1.0
+North America,1400,other,80,1.0
+North America,1420,other,1,1.0
+North America,1450,other,1,1.0
+North America,1490,other,7,1.0
+North America,1500,other,1,1.0
+North America,1600,other,16,1.0
+North America,1620,other,3,1.0
+North America,1650,other,12,1.0
+North America,1660,other,4,1.0
+North America,1690,other,4,1.0
+North America,1700,other,22,1.0
+North America,1710,other,11,1.0
+North America,1720,other,15,1.0
+North America,1730,other,18,1.0
+North America,1740,Drawings,1,0.03125
+North America,1740,other,31,0.96875
+North America,1750,Drawings,2,0.07407407407407407
+North America,1750,Prints,2,0.07407407407407407
+North America,1750,other,23,0.8518518518518519
+North America,1760,Drawings,4,0.11764705882352941
+North America,1760,Prints,4,0.11764705882352941
+North America,1760,other,26,0.7647058823529411
+North America,1770,Drawings,12,0.18181818181818182
+North America,1770,Prints,8,0.12121212121212122
+North America,1770,other,46,0.696969696969697
+North America,1780,Drawings,19,0.25
+North America,1780,Prints,7,0.09210526315789473
+North America,1780,other,50,0.6578947368421053
+North America,1790,Drawings,21,0.20588235294117646
+North America,1790,Prints,8,0.0784313725490196
+North America,1790,other,73,0.7156862745098039
+North America,1800,Drawings,27,0.18243243243243243
+North America,1800,Prints,19,0.12837837837837837
+North America,1800,other,102,0.6891891891891891
+North America,1810,Drawings,32,0.19631901840490798
+North America,1810,Prints,23,0.1411042944785276
+North America,1810,other,108,0.6625766871165644
+North America,1820,Drawings,54,0.20454545454545456
+North America,1820,Prints,117,0.4431818181818182
+North America,1820,other,93,0.3522727272727273
+North America,1830,Drawings,77,0.12280701754385964
+North America,1830,Prints,401,0.6395534290271132
+North America,1830,other,149,0.23763955342902712
+North America,1840,Drawings,105,0.2402745995423341
+North America,1840,Photographs,29,0.06636155606407322
+North America,1840,Prints,65,0.14874141876430205
+North America,1840,other,238,0.5446224256292906
+North America,1850,Drawings,116,0.12008281573498965
+North America,1850,Photographs,170,0.17598343685300208
+North America,1850,Prints,467,0.4834368530020704
+North America,1850,other,213,0.2204968944099379
+North America,1860,Drawings,174,0.1065523576240049
+North America,1860,Photographs,515,0.3153704837721984
+North America,1860,Prints,427,0.26148193508879364
+North America,1860,other,513,0.31414574402939377
+North America,1860,textiles-woven,4,0.002449479485609308
+North America,1870,Drawings,179,0.16728971962616823
+North America,1870,Photographs,87,0.08130841121495327
+North America,1870,Prints,488,0.45607476635514016
+North America,1870,other,311,0.2906542056074766
+North America,1870,textiles-woven,5,0.004672897196261682
+North America,1880,Drawings,296,0.13411871318531943
+North America,1880,Photographs,893,0.4046216583597644
+North America,1880,Prints,778,0.35251472587222477
+North America,1880,other,239,0.10829179882193023
+North America,1880,textiles-woven,1,0.00045310376076121433
+North America,1890,Drawings,470,0.23383084577114427
+North America,1890,Photographs,453,0.2253731343283582
+North America,1890,Prints,601,0.2990049751243781
+North America,1890,other,483,0.24029850746268658
+North America,1890,textiles-woven,3,0.0014925373134328358
+North America,1900,Drawings,284,0.12347826086956522
+North America,1900,Photographs,307,0.1334782608695652
+North America,1900,Prints,452,0.19652173913043477
+North America,1900,ceramics,1,0.0004347826086956522
+North America,1900,other,1256,0.5460869565217391
+North America,1910,Drawings,646,0.18305468971379996
+North America,1910,Photographs,646,0.18305468971379996
+North America,1910,Prints,1400,0.3967129498441485
+North America,1910,other,835,0.23661093794276
+North America,1910,textiles-woven,2,0.0005667327854916407
+North America,1920,Drawings,800,0.15252621544327932
+North America,1920,Photographs,1126,0.21468064823641564
+North America,1920,Prints,2155,0.41086749285033364
+North America,1920,other,1163,0.2217349857006673
+North America,1920,textiles-woven,1,0.00019065776930409913
+North America,1930,Drawings,2093,0.2411290322580645
+North America,1930,Photographs,1691,0.19481566820276497
+North America,1930,Prints,3737,0.4305299539170507
+North America,1930,other,1159,0.13352534562211982
+North America,1940,Drawings,1126,0.1575265808617795
+North America,1940,Photographs,2086,0.29182988248461106
+North America,1940,Prints,2643,0.36975377728035813
+North America,1940,other,1275,0.17837157246782318
+North America,1940,textiles-woven,18,0.002518186905428092
+North America,1950,Drawings,661,0.0775093808630394
+North America,1950,Photographs,4770,0.5593339587242027
+North America,1950,Prints,2034,0.23850844277673547
+North America,1950,other,1062,0.12453095684803002
+North America,1950,textiles-woven,1,0.00011726078799249531
+North America,1960,Drawings,2159,0.20406427221172022
+North America,1960,Photographs,2362,0.22325141776937618
+North America,1960,Prints,3661,0.3460302457466919
+North America,1960,other,2398,0.2266540642722117
+North America,1970,Drawings,931,0.11164408202422353
+North America,1970,Photographs,2471,0.29631850341767596
+North America,1970,Prints,3115,0.3735459887276652
+North America,1970,other,1822,0.2184914258304353
+North America,1980,Drawings,559,0.09890304317055909
+North America,1980,Photographs,2169,0.3837579617834395
+North America,1980,Prints,2085,0.36889596602972397
+North America,1980,other,839,0.14844302901627743
+North America,1990,Drawings,481,0.07655578545280917
+North America,1990,Photographs,2314,0.36829540028648733
+North America,1990,Prints,2426,0.3861212796434824
+North America,1990,other,1062,0.16902753461722106
+North America,2000,Drawings,240,0.05755395683453238
+North America,2000,Photographs,1920,0.460431654676259
+North America,2000,Prints,1181,0.2832134292565947
+North America,2000,other,823,0.1973621103117506
+North America,2000,textiles-woven,6,0.0014388489208633094
+North America,2010,Drawings,45,0.0398936170212766
+North America,2010,Photographs,495,0.43882978723404253
+North America,2010,Prints,341,0.30230496453900707
+North America,2010,other,247,0.21897163120567376
+North America,2020,Drawings,10,0.04329004329004329
+North America,2020,Photographs,80,0.3463203463203463
+North America,2020,Prints,71,0.30735930735930733
+North America,2020,other,70,0.30303030303030304
+Sub-Saharan Africa,1570,other,1,1.0
+Sub-Saharan Africa,1580,other,1,1.0
+Sub-Saharan Africa,1590,other,2,1.0
+Sub-Saharan Africa,1600,other,7,1.0
+Sub-Saharan Africa,1640,other,1,1.0
+Sub-Saharan Africa,1680,other,8,1.0
+Sub-Saharan Africa,1690,other,1,1.0
+Sub-Saharan Africa,1700,other,33,1.0
+Sub-Saharan Africa,1730,other,1,1.0
+Sub-Saharan Africa,1750,other,2,1.0
+Sub-Saharan Africa,1800,other,85,1.0
+Sub-Saharan Africa,1810,other,1,1.0
+Sub-Saharan Africa,1820,other,1,1.0
+Sub-Saharan Africa,1830,textiles-woven,1,1.0
+Sub-Saharan Africa,1840,other,2,1.0
+Sub-Saharan Africa,1860,other,1,1.0
+Sub-Saharan Africa,1870,other,1,1.0
+Sub-Saharan Africa,1880,Photographs,1,0.25
+Sub-Saharan Africa,1880,other,3,0.75
+Sub-Saharan Africa,1890,other,124,0.9763779527559056
+Sub-Saharan Africa,1890,textiles-woven,3,0.023622047244094488
+Sub-Saharan Africa,1900,other,42,1.0
+Sub-Saharan Africa,1910,other,4,1.0
+Sub-Saharan Africa,1920,other,20,0.8695652173913043
+Sub-Saharan Africa,1920,textiles-woven,3,0.13043478260869565
+Sub-Saharan Africa,1930,other,12,1.0
+Sub-Saharan Africa,1940,other,10,0.9090909090909091
+Sub-Saharan Africa,1940,textiles-woven,1,0.09090909090909091
+Sub-Saharan Africa,1950,other,48,0.8888888888888888
+Sub-Saharan Africa,1950,textiles-woven,6,0.1111111111111111
+Sub-Saharan Africa,1960,other,25,1.0
+Sub-Saharan Africa,1970,Photographs,5,0.2777777777777778
+Sub-Saharan Africa,1970,other,9,0.5
+Sub-Saharan Africa,1970,textiles-woven,4,0.2222222222222222
+Sub-Saharan Africa,1980,other,1,0.3333333333333333
+Sub-Saharan Africa,1980,textiles-woven,2,0.6666666666666666
+Sub-Saharan Africa,1990,other,18,1.0
+Sub-Saharan Africa,2000,Photographs,1,0.0013315579227696406
+Sub-Saharan Africa,2000,other,646,0.8601864181091877
+Sub-Saharan Africa,2000,textiles-woven,104,0.1384820239680426
+Sub-Saharan Africa,2010,other,7,1.0
+Sub-Saharan Africa,2020,other,27,0.43548387096774194
+Sub-Saharan Africa,2020,textiles-woven,35,0.5645161290322581
+Unknown,-1000,ceramics,16,0.042666666666666665
+Unknown,-1000,other,355,0.9466666666666667
+Unknown,-1000,vases,4,0.010666666666666666
+Unknown,-980,other,1,1.0
+Unknown,-970,other,1,1.0
+Unknown,-950,ceramics,1,0.022222222222222223
+Unknown,-950,other,5,0.1111111111111111
+Unknown,-950,vases,39,0.8666666666666667
+Unknown,-940,other,2,1.0
+Unknown,-910,other,2,1.0
+Unknown,-900,ceramics,1,0.008695652173913044
+Unknown,-900,other,66,0.5739130434782609
+Unknown,-900,vases,48,0.41739130434782606
+Unknown,-880,other,2,0.5
+Unknown,-880,vases,2,0.5
+Unknown,-870,other,1,1.0
+Unknown,-860,other,28,1.0
+Unknown,-850,other,12,0.5714285714285714
+Unknown,-850,vases,9,0.42857142857142855
+Unknown,-810,other,1,1.0
+Unknown,-800,ceramics,14,0.028169014084507043
+Unknown,-800,other,474,0.9537223340040242
+Unknown,-800,vases,9,0.018108651911468814
+Unknown,-780,other,21,0.9130434782608695
+Unknown,-780,vases,2,0.08695652173913043
+Unknown,-770,other,7,1.0
+Unknown,-760,other,3,1.0
+Unknown,-750,other,54,0.42857142857142855
+Unknown,-750,vases,72,0.5714285714285714
+Unknown,-740,other,5,0.625
+Unknown,-740,vases,3,0.375
+Unknown,-730,other,6,0.6666666666666666
+Unknown,-730,vases,3,0.3333333333333333
+Unknown,-710,other,10,0.7142857142857143
+Unknown,-710,vases,4,0.2857142857142857
+Unknown,-700,ceramics,1,0.002109704641350211
+Unknown,-700,other,336,0.7088607594936709
+Unknown,-700,vases,137,0.2890295358649789
+Unknown,-690,other,11,0.7857142857142857
+Unknown,-690,vases,3,0.21428571428571427
+Unknown,-680,other,21,0.6176470588235294
+Unknown,-680,vases,13,0.38235294117647056
+Unknown,-670,other,8,0.8
+Unknown,-670,vases,2,0.2
+Unknown,-660,other,2,1.0
+Unknown,-650,other,29,0.5576923076923077
+Unknown,-650,vases,23,0.4423076923076923
+Unknown,-640,other,4,0.8
+Unknown,-640,vases,1,0.2
+Unknown,-630,other,18,0.5454545454545454
+Unknown,-630,vases,15,0.45454545454545453
+Unknown,-620,other,36,0.8780487804878049
+Unknown,-620,vases,5,0.12195121951219512
+Unknown,-610,other,25,0.78125
+Unknown,-610,vases,7,0.21875
+Unknown,-600,other,831,0.7810150375939849
+Unknown,-600,vases,233,0.21898496240601503
+Unknown,-590,other,10,0.3333333333333333
+Unknown,-590,vases,20,0.6666666666666666
+Unknown,-580,other,47,0.573170731707317
+Unknown,-580,vases,35,0.4268292682926829
+Unknown,-570,ceramics,2,0.03076923076923077
+Unknown,-570,other,44,0.676923076923077
+Unknown,-570,vases,19,0.2923076923076923
+Unknown,-560,other,24,0.48
+Unknown,-560,vases,26,0.52
+Unknown,-550,other,147,0.5444444444444444
+Unknown,-550,vases,123,0.45555555555555555
+Unknown,-540,other,59,0.5363636363636364
+Unknown,-540,vases,51,0.4636363636363636
+Unknown,-530,other,97,0.4597156398104265
+Unknown,-530,vases,114,0.5402843601895735
+Unknown,-520,other,38,0.3486238532110092
+Unknown,-520,vases,71,0.6513761467889908
+Unknown,-510,other,82,0.5030674846625767
+Unknown,-510,vases,81,0.49693251533742333
+Unknown,-500,ceramics,1,0.0008116883116883117
+Unknown,-500,other,815,0.661525974025974
+Unknown,-500,vases,416,0.33766233766233766
+Unknown,-490,ceramics,2,0.017094017094017096
+Unknown,-490,other,45,0.38461538461538464
+Unknown,-490,vases,70,0.5982905982905983
+Unknown,-480,other,328,0.5231259968102073
+Unknown,-480,vases,299,0.4768740031897927
+Unknown,-470,other,22,0.21568627450980393
+Unknown,-470,vases,80,0.7843137254901961
+Unknown,-460,other,28,0.3076923076923077
+Unknown,-460,vases,63,0.6923076923076923
+Unknown,-450,other,110,0.01124859392575928
+Unknown,-450,vases,9669,0.9887514060742407
+Unknown,-440,other,8,0.18181818181818182
+Unknown,-440,vases,36,0.8181818181818182
+Unknown,-430,other,49,0.310126582278481
+Unknown,-430,vases,109,0.689873417721519
+Unknown,-420,other,8,0.17391304347826086
+Unknown,-420,vases,38,0.8260869565217391
+Unknown,-410,other,69,0.8518518518518519
+Unknown,-410,vases,12,0.14814814814814814
+Unknown,-400,ceramics,3,0.0006561679790026247
+Unknown,-400,other,872,0.19072615923009623
+Unknown,-400,vases,3697,0.8086176727909011
+Unknown,-390,other,21,0.9545454545454546
+Unknown,-390,vases,1,0.045454545454545456
+Unknown,-380,other,73,0.6576576576576577
+Unknown,-380,vases,38,0.34234234234234234
+Unknown,-370,other,9,0.9
+Unknown,-370,vases,1,0.1
+Unknown,-360,other,12,0.6
+Unknown,-360,vases,8,0.4
+Unknown,-350,ceramics,3,0.0234375
+Unknown,-350,other,86,0.671875
+Unknown,-350,vases,39,0.3046875
+Unknown,-340,other,23,0.4791666666666667
+Unknown,-340,vases,25,0.5208333333333334
+Unknown,-330,other,80,0.5633802816901409
+Unknown,-330,vases,62,0.43661971830985913
+Unknown,-320,other,22,0.5365853658536586
+Unknown,-320,vases,19,0.4634146341463415
+Unknown,-310,other,43,0.6615384615384615
+Unknown,-310,vases,22,0.3384615384615385
+Unknown,-300,ceramics,8,0.001817355747387551
+Unknown,-300,other,909,0.2064970467969105
+Unknown,-300,vases,3485,0.791685597455702
+Unknown,-290,other,10,0.7692307692307693
+Unknown,-290,vases,3,0.23076923076923078
+Unknown,-280,other,87,0.8130841121495327
+Unknown,-280,vases,20,0.18691588785046728
+Unknown,-270,other,24,0.8
+Unknown,-270,vases,6,0.2
+Unknown,-260,ceramics,6,0.1111111111111111
+Unknown,-260,other,48,0.8888888888888888
+Unknown,-250,ceramics,1,0.0125
+Unknown,-250,other,76,0.95
+Unknown,-250,vases,3,0.0375
+Unknown,-240,other,5,1.0
+Unknown,-230,ceramics,1,0.03225806451612903
+Unknown,-230,other,26,0.8387096774193549
+Unknown,-230,textiles-woven,2,0.06451612903225806
+Unknown,-230,vases,2,0.06451612903225806
+Unknown,-220,other,5,0.45454545454545453
+Unknown,-220,vases,6,0.5454545454545454
+Unknown,-210,other,10,0.9090909090909091
+Unknown,-210,vases,1,0.09090909090909091
+Unknown,-200,ceramics,5,0.006097560975609756
+Unknown,-200,other,734,0.8951219512195122
+Unknown,-200,vases,81,0.09878048780487805
+Unknown,-190,other,1,1.0
+Unknown,-180,other,19,0.95
+Unknown,-180,vases,1,0.05
+Unknown,-170,other,5,1.0
+Unknown,-160,other,13,1.0
+Unknown,-150,other,41,0.803921568627451
+Unknown,-150,vases,10,0.19607843137254902
+Unknown,-140,other,11,1.0
+Unknown,-130,other,6,1.0
+Unknown,-120,other,8,1.0
+Unknown,-110,other,10,0.8333333333333334
+Unknown,-110,vases,2,0.16666666666666666
+Unknown,-100,ceramics,4,0.007339449541284404
+Unknown,-100,other,485,0.8899082568807339
+Unknown,-100,vases,56,0.10275229357798166
+Unknown,-90,other,10,1.0
+Unknown,-80,other,15,0.9375
+Unknown,-80,vases,1,0.0625
+Unknown,-70,other,6,1.0
+Unknown,-60,other,10,0.9090909090909091
+Unknown,-60,textiles-woven,1,0.09090909090909091
+Unknown,-50,other,68,0.8717948717948718
+Unknown,-50,vases,10,0.1282051282051282
+Unknown,-40,other,29,1.0
+Unknown,-30,other,299,0.6719101123595506
+Unknown,-30,vases,146,0.32808988764044944
+Unknown,-20,other,10,1.0
+Unknown,-10,ceramics,5,0.006510416666666667
+Unknown,-10,other,741,0.96484375
+Unknown,-10,vases,22,0.028645833333333332
+Unknown,0,Drawings,63,0.03786057692307692
+Unknown,0,Photographs,87,0.05228365384615385
+Unknown,0,Prints,140,0.08413461538461539
+Unknown,0,books,14,0.008413461538461538
+Unknown,0,ceramics,41,0.024639423076923076
+Unknown,0,other,1126,0.6766826923076923
+Unknown,0,textiles-woven,191,0.11478365384615384
+Unknown,0,vases,2,0.001201923076923077
+Unknown,10,Prints,45,0.4166666666666667
+Unknown,10,ceramics,3,0.027777777777777776
+Unknown,10,other,56,0.5185185185185185
+Unknown,10,vases,4,0.037037037037037035
+Unknown,20,Prints,2,0.003968253968253968
+Unknown,20,books,1,0.001984126984126984
+Unknown,20,other,488,0.9682539682539683
+Unknown,20,vases,13,0.025793650793650792
+Unknown,30,other,41,0.8541666666666666
+Unknown,30,vases,7,0.14583333333333334
+Unknown,40,other,15,0.8333333333333334
+Unknown,40,vases,3,0.16666666666666666
+Unknown,50,other,207,0.915929203539823
+Unknown,50,vases,19,0.084070796460177
+Unknown,60,other,49,0.8596491228070176
+Unknown,60,vases,8,0.14035087719298245
+Unknown,70,other,93,0.96875
+Unknown,70,vases,3,0.03125
+Unknown,80,other,14,0.9333333333333333
+Unknown,80,vases,1,0.06666666666666667
+Unknown,90,ceramics,10,0.013297872340425532
+Unknown,90,other,649,0.863031914893617
+Unknown,90,vases,93,0.12367021276595745
+Unknown,100,ceramics,6,0.008333333333333333
+Unknown,100,other,690,0.9583333333333334
+Unknown,100,textiles-woven,1,0.001388888888888889
+Unknown,100,vases,23,0.03194444444444444
+Unknown,110,other,10,1.0
+Unknown,120,other,47,1.0
+Unknown,130,other,17,1.0
+Unknown,140,other,26,0.9629629629629629
+Unknown,140,vases,1,0.037037037037037035
+Unknown,150,ceramics,1,0.0125
+Unknown,150,other,66,0.825
+Unknown,150,vases,13,0.1625
+Unknown,160,other,11,0.7857142857142857
+Unknown,160,vases,3,0.21428571428571427
+Unknown,170,other,17,0.85
+Unknown,170,vases,3,0.15
+Unknown,180,other,9,0.9
+Unknown,180,vases,1,0.1
+Unknown,190,ceramics,23,0.03159340659340659
+Unknown,190,other,692,0.9505494505494505
+Unknown,190,vases,13,0.017857142857142856
+Unknown,200,ceramics,9,0.06666666666666667
+Unknown,200,other,116,0.8592592592592593
+Unknown,200,vases,10,0.07407407407407407
+Unknown,210,other,25,1.0
+Unknown,220,ceramics,74,0.21142857142857144
+Unknown,220,other,261,0.7457142857142857
+Unknown,220,vases,15,0.04285714285714286
+Unknown,230,ceramics,7,0.20588235294117646
+Unknown,230,other,27,0.7941176470588235
+Unknown,240,other,18,1.0
+Unknown,250,ceramics,1,0.01818181818181818
+Unknown,250,other,51,0.9272727272727272
+Unknown,250,vases,3,0.05454545454545454
+Unknown,260,other,1,1.0
+Unknown,270,other,14,0.875
+Unknown,270,vases,2,0.125
+Unknown,280,other,12,1.0
+Unknown,290,ceramics,3,0.0024630541871921183
+Unknown,290,other,1204,0.9885057471264368
+Unknown,290,textiles-woven,1,0.0008210180623973727
+Unknown,290,vases,10,0.008210180623973728
+Unknown,300,ceramics,14,0.022617124394184167
+Unknown,300,other,538,0.8691437802907916
+Unknown,300,vases,67,0.10823909531502424
+Unknown,310,ceramics,12,0.23076923076923078
+Unknown,310,other,40,0.7692307692307693
+Unknown,320,other,27,1.0
+Unknown,330,other,1678,0.9129488574537541
+Unknown,330,vases,160,0.08705114254624592
+Unknown,340,other,21,1.0
+Unknown,350,ceramics,1,0.016666666666666666
+Unknown,350,other,59,0.9833333333333333
+Unknown,360,ceramics,1,0.06666666666666667
+Unknown,360,other,14,0.9333333333333333
+Unknown,370,other,22,1.0
+Unknown,380,other,10,1.0
+Unknown,390,ceramics,6,0.01048951048951049
+Unknown,390,other,565,0.9877622377622378
+Unknown,390,vases,1,0.0017482517482517483
+Unknown,400,ceramics,8,0.025477707006369428
+Unknown,400,other,282,0.8980891719745223
+Unknown,400,textiles-woven,24,0.07643312101910828
+Unknown,410,other,4,1.0
+Unknown,420,ceramics,2,0.047619047619047616
+Unknown,420,other,37,0.8809523809523809
+Unknown,420,vases,3,0.07142857142857142
+Unknown,430,other,137,0.9927536231884058
+Unknown,430,vases,1,0.007246376811594203
+Unknown,440,ceramics,1,0.06666666666666667
+Unknown,440,other,14,0.9333333333333333
+Unknown,450,ceramics,3,0.05660377358490566
+Unknown,450,other,50,0.9433962264150944
+Unknown,460,ceramics,2,0.6666666666666666
+Unknown,460,other,1,0.3333333333333333
+Unknown,470,ceramics,1,0.125
+Unknown,470,other,7,0.875
+Unknown,480,other,3,1.0
+Unknown,490,ceramics,9,0.02830188679245283
+Unknown,490,other,285,0.8962264150943396
+Unknown,490,textiles-woven,24,0.07547169811320754
+Unknown,500,other,122,0.9606299212598425
+Unknown,500,textiles-woven,4,0.031496062992125984
+Unknown,500,vases,1,0.007874015748031496
+Unknown,510,ceramics,1,0.25
+Unknown,510,other,3,0.75
+Unknown,520,other,51,1.0
+Unknown,530,ceramics,4,0.08163265306122448
+Unknown,530,other,45,0.9183673469387755
+Unknown,540,other,47,1.0
+Unknown,550,ceramics,97,0.4898989898989899
+Unknown,550,other,100,0.5050505050505051
+Unknown,550,textiles-woven,1,0.005050505050505051
+Unknown,560,other,15,1.0
+Unknown,570,ceramics,1,0.038461538461538464
+Unknown,570,other,25,0.9615384615384616
+Unknown,580,ceramics,6,0.17647058823529413
+Unknown,580,other,28,0.8235294117647058
+Unknown,590,ceramics,45,0.13196480938416422
+Unknown,590,other,257,0.7536656891495601
+Unknown,590,textiles-woven,38,0.11143695014662756
+Unknown,590,vases,1,0.002932551319648094
+Unknown,600,ceramics,59,0.17771084337349397
+Unknown,600,other,250,0.7530120481927711
+Unknown,600,textiles-woven,22,0.06626506024096386
+Unknown,600,vases,1,0.0030120481927710845
+Unknown,610,ceramics,7,0.2413793103448276
+Unknown,610,other,22,0.7586206896551724
+Unknown,620,ceramics,1,0.023809523809523808
+Unknown,620,other,41,0.9761904761904762
+Unknown,630,ceramics,2,0.09523809523809523
+Unknown,630,other,19,0.9047619047619048
+Unknown,640,ceramics,54,0.3
+Unknown,640,other,119,0.6611111111111111
+Unknown,640,textiles-woven,7,0.03888888888888889
+Unknown,650,ceramics,1,0.013157894736842105
+Unknown,650,other,75,0.9868421052631579
+Unknown,660,other,9,1.0
+Unknown,670,other,8,1.0
+Unknown,680,ceramics,2,0.09523809523809523
+Unknown,680,other,19,0.9047619047619048
+Unknown,690,ceramics,491,0.2639784946236559
+Unknown,690,other,1359,0.7306451612903225
+Unknown,690,textiles-woven,10,0.005376344086021506
+Unknown,700,ceramics,264,0.39939485627836613
+Unknown,700,other,380,0.5748865355521936
+Unknown,700,textiles-woven,17,0.025718608169440244
+Unknown,710,ceramics,2,0.2
+Unknown,710,other,8,0.8
+Unknown,720,ceramics,1,0.018518518518518517
+Unknown,720,other,53,0.9814814814814815
+Unknown,730,ceramics,5,0.16129032258064516
+Unknown,730,other,26,0.8387096774193549
+Unknown,740,ceramics,13,0.16666666666666666
+Unknown,740,other,64,0.8205128205128205
+Unknown,740,textiles-woven,1,0.01282051282051282
+Unknown,750,ceramics,2,0.03773584905660377
+Unknown,750,other,50,0.9433962264150944
+Unknown,750,textiles-woven,1,0.018867924528301886
+Unknown,760,other,8,1.0
+Unknown,770,other,12,0.9230769230769231
+Unknown,770,textiles-woven,1,0.07692307692307693
+Unknown,780,other,1,1.0
+Unknown,790,ceramics,75,0.15592515592515593
+Unknown,790,other,378,0.7858627858627859
+Unknown,790,textiles-woven,28,0.058212058212058215
+Unknown,800,ceramics,1,0.008130081300813009
+Unknown,800,other,119,0.967479674796748
+Unknown,800,textiles-woven,3,0.024390243902439025
+Unknown,810,other,1,1.0
+Unknown,820,other,9,1.0
+Unknown,830,other,29,0.9666666666666667
+Unknown,830,textiles-woven,1,0.03333333333333333
+Unknown,840,Drawings,3,0.08333333333333333
+Unknown,840,other,33,0.9166666666666666
+Unknown,850,ceramics,1,0.014285714285714285
+Unknown,850,other,68,0.9714285714285714
+Unknown,850,textiles-woven,1,0.014285714285714285
+Unknown,860,other,7,1.0
+Unknown,870,other,1,1.0
+Unknown,880,other,1,1.0
+Unknown,890,Drawings,3,0.004392386530014641
+Unknown,890,ceramics,275,0.40263543191800877
+Unknown,890,other,393,0.575402635431918
+Unknown,890,textiles-woven,12,0.017569546120058566
+Unknown,900,ceramics,30,0.13043478260869565
+Unknown,900,other,194,0.8434782608695652
+Unknown,900,textiles-woven,6,0.02608695652173913
+Unknown,910,other,7,1.0
+Unknown,920,ceramics,1,0.011904761904761904
+Unknown,920,other,83,0.9880952380952381
+Unknown,930,other,66,1.0
+Unknown,940,Prints,1,0.034482758620689655
+Unknown,940,other,28,0.9655172413793104
+Unknown,950,ceramics,3,0.05555555555555555
+Unknown,950,other,51,0.9444444444444444
+Unknown,960,ceramics,1,0.025
+Unknown,960,other,39,0.975
+Unknown,970,ceramics,1,0.05555555555555555
+Unknown,970,other,17,0.9444444444444444
+Unknown,980,ceramics,1,0.14285714285714285
+Unknown,980,other,6,0.8571428571428571
+Unknown,990,Prints,1,0.0018832391713747645
+Unknown,990,ceramics,91,0.1713747645951036
+Unknown,990,other,421,0.7928436911487758
+Unknown,990,textiles-woven,18,0.03389830508474576
+Unknown,1000,other,133,1.0
+Unknown,1010,other,6,1.0
+Unknown,1020,other,25,1.0
+Unknown,1030,other,19,1.0
+Unknown,1040,other,29,1.0
+Unknown,1050,ceramics,1,0.0011098779134295228
+Unknown,1050,other,900,0.9988901220865705
+Unknown,1060,other,16,1.0
+Unknown,1070,other,3,1.0
+Unknown,1080,other,6,1.0
+Unknown,1090,Drawings,3,0.009009009009009009
+Unknown,1090,ceramics,44,0.13213213213213212
+Unknown,1090,other,282,0.8468468468468469
+Unknown,1090,textiles-woven,4,0.012012012012012012
+Unknown,1100,other,139,0.9928571428571429
+Unknown,1100,textiles-woven,1,0.007142857142857143
+Unknown,1110,other,7,1.0
+Unknown,1120,ceramics,9,0.20930232558139536
+Unknown,1120,other,34,0.7906976744186046
+Unknown,1130,ceramics,19,0.1792452830188679
+Unknown,1130,other,87,0.8207547169811321
+Unknown,1140,Drawings,1,0.020833333333333332
+Unknown,1140,ceramics,4,0.08333333333333333
+Unknown,1140,other,43,0.8958333333333334
+Unknown,1150,ceramics,8,0.09411764705882353
+Unknown,1150,other,77,0.9058823529411765
+Unknown,1160,Prints,1,0.03571428571428571
+Unknown,1160,ceramics,5,0.17857142857142858
+Unknown,1160,other,22,0.7857142857142857
+Unknown,1170,other,23,1.0
+Unknown,1180,other,47,1.0
+Unknown,1190,ceramics,164,0.23837209302325582
+Unknown,1190,other,510,0.7412790697674418
+Unknown,1190,textiles-woven,14,0.020348837209302327
+Unknown,1200,ceramics,3,0.012
+Unknown,1200,other,247,0.988
+Unknown,1210,ceramics,1,0.043478260869565216
+Unknown,1210,other,22,0.9565217391304348
+Unknown,1220,ceramics,3,0.03488372093023256
+Unknown,1220,other,83,0.9651162790697675
+Unknown,1230,ceramics,26,0.32098765432098764
+Unknown,1230,other,53,0.654320987654321
+Unknown,1230,textiles-woven,2,0.024691358024691357
+Unknown,1240,ceramics,2,0.0425531914893617
+Unknown,1240,other,45,0.9574468085106383
+Unknown,1250,ceramics,3,0.04411764705882353
+Unknown,1250,other,64,0.9411764705882353
+Unknown,1250,textiles-woven,1,0.014705882352941176
+Unknown,1260,ceramics,1,0.03125
+Unknown,1260,other,31,0.96875
+Unknown,1270,Prints,1,0.001177856301531213
+Unknown,1270,ceramics,116,0.13663133097762073
+Unknown,1270,other,731,0.8610129564193169
+Unknown,1270,textiles-woven,1,0.001177856301531213
+Unknown,1280,other,7,1.0
+Unknown,1290,ceramics,104,0.21711899791231734
+Unknown,1290,other,366,0.7640918580375783
+Unknown,1290,textiles-woven,9,0.018789144050104383
+Unknown,1300,ceramics,17,0.09444444444444444
+Unknown,1300,other,159,0.8833333333333333
+Unknown,1300,textiles-woven,1,0.005555555555555556
+Unknown,1300,vases,3,0.016666666666666666
+Unknown,1310,other,27,1.0
+Unknown,1320,ceramics,1,0.009259259259259259
+Unknown,1320,other,107,0.9907407407407407
+Unknown,1330,Drawings,1,0.008849557522123894
+Unknown,1330,ceramics,13,0.11504424778761062
+Unknown,1330,other,98,0.8672566371681416
+Unknown,1330,textiles-woven,1,0.008849557522123894
+Unknown,1340,ceramics,3,0.03571428571428571
+Unknown,1340,other,81,0.9642857142857143
+Unknown,1350,ceramics,2,0.011695906432748537
+Unknown,1350,other,166,0.9707602339181286
+Unknown,1350,textiles-woven,3,0.017543859649122806
+Unknown,1360,ceramics,82,0.42487046632124353
+Unknown,1360,other,108,0.5595854922279793
+Unknown,1360,textiles-woven,3,0.015544041450777202
+Unknown,1370,Drawings,1,0.019230769230769232
+Unknown,1370,other,51,0.9807692307692307
+Unknown,1380,Drawings,1,0.020833333333333332
+Unknown,1380,other,47,0.9791666666666666
+Unknown,1390,Prints,1,0.0011574074074074073
+Unknown,1390,ceramics,117,0.13541666666666666
+Unknown,1390,other,704,0.8148148148148148
+Unknown,1390,textiles-woven,42,0.04861111111111111
+Unknown,1400,Drawings,4,0.012195121951219513
+Unknown,1400,ceramics,10,0.03048780487804878
+Unknown,1400,other,311,0.948170731707317
+Unknown,1400,textiles-woven,3,0.009146341463414634
+Unknown,1410,Drawings,6,0.08695652173913043
+Unknown,1410,ceramics,1,0.014492753623188406
+Unknown,1410,other,60,0.8695652173913043
+Unknown,1410,textiles-woven,2,0.028985507246376812
+Unknown,1420,Drawings,7,0.043478260869565216
+Unknown,1420,ceramics,5,0.031055900621118012
+Unknown,1420,other,148,0.9192546583850931
+Unknown,1420,textiles-woven,1,0.006211180124223602
+Unknown,1430,Drawings,12,0.06
+Unknown,1430,ceramics,29,0.145
+Unknown,1430,other,158,0.79
+Unknown,1430,textiles-woven,1,0.005
+Unknown,1440,Drawings,5,0.03968253968253968
+Unknown,1440,Prints,2,0.015873015873015872
+Unknown,1440,ceramics,3,0.023809523809523808
+Unknown,1440,other,116,0.9206349206349206
+Unknown,1450,Drawings,9,0.02735562310030395
+Unknown,1450,Prints,8,0.0243161094224924
+Unknown,1450,ceramics,19,0.057750759878419454
+Unknown,1450,other,288,0.8753799392097265
+Unknown,1450,textiles-woven,5,0.015197568389057751
+Unknown,1460,Drawings,5,0.022935779816513763
+Unknown,1460,Prints,41,0.18807339449541285
+Unknown,1460,ceramics,6,0.027522935779816515
+Unknown,1460,other,164,0.7522935779816514
+Unknown,1460,textiles-woven,2,0.009174311926605505
+Unknown,1470,Drawings,14,0.04778156996587031
+Unknown,1470,Prints,43,0.14675767918088736
+Unknown,1470,books,13,0.04436860068259386
+Unknown,1470,other,221,0.7542662116040956
+Unknown,1470,textiles-woven,2,0.006825938566552901
+Unknown,1480,Drawings,10,0.02666666666666667
+Unknown,1480,Prints,75,0.2
+Unknown,1480,books,49,0.13066666666666665
+Unknown,1480,ceramics,6,0.016
+Unknown,1480,other,235,0.6266666666666667
+Unknown,1490,Drawings,15,0.0056667925953910086
+Unknown,1490,Prints,298,0.11258027956176804
+Unknown,1490,books,101,0.03815640347563279
+Unknown,1490,ceramics,134,0.05062334718549301
+Unknown,1490,other,2051,0.774839440876464
+Unknown,1490,textiles-woven,48,0.018133736305251228
+Unknown,1500,Drawings,43,0.02607640994542147
+Unknown,1500,Prints,487,0.29533050333535477
+Unknown,1500,books,100,0.06064281382656155
+Unknown,1500,ceramics,16,0.009702850212249849
+Unknown,1500,other,993,0.6021831412977562
+Unknown,1500,textiles-woven,10,0.006064281382656155
+Unknown,1510,Drawings,52,0.03525423728813559
+Unknown,1510,Prints,821,0.5566101694915254
+Unknown,1510,books,98,0.06644067796610169
+Unknown,1510,ceramics,7,0.0047457627118644066
+Unknown,1510,other,484,0.328135593220339
+Unknown,1510,textiles-woven,13,0.008813559322033898
+Unknown,1520,Drawings,69,0.04080425783560024
+Unknown,1520,Prints,651,0.38497930218805443
+Unknown,1520,books,77,0.04553518628030751
+Unknown,1520,ceramics,12,0.007096392667060911
+Unknown,1520,other,878,0.5192193968066233
+Unknown,1520,textiles-woven,4,0.002365464222353637
+Unknown,1530,Drawings,65,0.03316326530612245
+Unknown,1530,Prints,930,0.4744897959183674
+Unknown,1530,books,65,0.03316326530612245
+Unknown,1530,ceramics,19,0.009693877551020408
+Unknown,1530,other,880,0.4489795918367347
+Unknown,1530,textiles-woven,1,0.0005102040816326531
+Unknown,1540,Drawings,115,0.05497131931166348
+Unknown,1540,Prints,862,0.41204588910133844
+Unknown,1540,books,79,0.03776290630975143
+Unknown,1540,ceramics,3,0.0014340344168260039
+Unknown,1540,other,1033,0.49378585086042065
+Unknown,1550,Drawings,83,0.027861698556562606
+Unknown,1550,Prints,1318,0.44243034575360857
+Unknown,1550,books,130,0.0436388049681101
+Unknown,1550,ceramics,16,0.005370929842228936
+Unknown,1550,other,1424,0.4780127559583753
+Unknown,1550,textiles-woven,8,0.002685464921114468
+Unknown,1560,Drawings,178,0.05411979325022803
+Unknown,1560,Prints,1201,0.3651565825478869
+Unknown,1560,books,83,0.025235633931286104
+Unknown,1560,ceramics,32,0.00972940103374886
+Unknown,1560,other,1790,0.5442383703253268
+Unknown,1560,textiles-woven,5,0.0015202189115232593
+Unknown,1570,Drawings,111,0.05119926199261993
+Unknown,1570,Prints,882,0.40682656826568264
+Unknown,1570,books,75,0.03459409594095941
+Unknown,1570,ceramics,32,0.014760147601476014
+Unknown,1570,other,1066,0.49169741697416974
+Unknown,1570,textiles-woven,2,0.0009225092250922509
+Unknown,1580,Drawings,395,0.16148814390842192
+Unknown,1580,Prints,1208,0.4938675388389207
+Unknown,1580,books,79,0.032297628781684386
+Unknown,1580,ceramics,4,0.001635322976287817
+Unknown,1580,other,760,0.3107113654946852
+Unknown,1590,Drawings,206,0.03890462700661001
+Unknown,1590,Prints,1098,0.20736543909348443
+Unknown,1590,books,85,0.016052880075542966
+Unknown,1590,ceramics,190,0.03588290840415486
+Unknown,1590,other,3290,0.6213408876298395
+Unknown,1590,textiles-woven,426,0.08045325779036827
+Unknown,1600,Drawings,396,0.07818361303060217
+Unknown,1600,Prints,1605,0.3168805528134255
+Unknown,1600,books,76,0.015004935834155972
+Unknown,1600,ceramics,8,0.0015794669299111549
+Unknown,1600,other,2971,0.5865745310957552
+Unknown,1600,textiles-woven,9,0.0017769002961500495
+Unknown,1610,Drawings,126,0.04833141542002301
+Unknown,1610,Prints,1216,0.46643651706942846
+Unknown,1610,books,79,0.030303030303030304
+Unknown,1610,ceramics,30,0.011507479861910242
+Unknown,1610,other,1128,0.4326812428078251
+Unknown,1610,textiles-woven,28,0.010740314537782892
+Unknown,1620,Drawings,152,0.04738154613466334
+Unknown,1620,Prints,1947,0.6069201995012469
+Unknown,1620,books,72,0.022443890274314215
+Unknown,1620,ceramics,54,0.01683291770573566
+Unknown,1620,other,979,0.30517456359102246
+Unknown,1620,textiles-woven,4,0.0012468827930174563
+Unknown,1630,Drawings,196,0.05301595888558291
+Unknown,1630,Prints,2571,0.6954287259940493
+Unknown,1630,books,90,0.024344062753583987
+Unknown,1630,ceramics,94,0.02542602109818772
+Unknown,1630,other,730,0.19745739789018124
+Unknown,1630,textiles-woven,16,0.004327833378414931
+Unknown,1640,Drawings,206,0.04956689124157844
+Unknown,1640,Prints,2703,0.6503849855630414
+Unknown,1640,books,73,0.017564966313763235
+Unknown,1640,ceramics,116,0.02791145332050048
+Unknown,1640,other,1034,0.24879692011549567
+Unknown,1640,prints|ephemera,1,0.00024061597690086623
+Unknown,1640,textiles-woven,23,0.005534167468719923
+Unknown,1650,Drawings,199,0.05645390070921986
+Unknown,1650,Prints,1979,0.5614184397163121
+Unknown,1650,books,68,0.01929078014184397
+Unknown,1650,ceramics,44,0.0124822695035461
+Unknown,1650,other,1221,0.34638297872340423
+Unknown,1650,textiles-woven,14,0.003971631205673759
+Unknown,1660,Drawings,317,0.13477891156462585
+Unknown,1660,Prints,1046,0.4447278911564626
+Unknown,1660,books,67,0.02848639455782313
+Unknown,1660,ceramics,55,0.0233843537414966
+Unknown,1660,other,854,0.3630952380952381
+Unknown,1660,textiles-woven,13,0.0055272108843537416
+Unknown,1670,Drawings,200,0.09293680297397769
+Unknown,1670,Prints,1182,0.5492565055762082
+Unknown,1670,books,128,0.05947955390334572
+Unknown,1670,ceramics,19,0.008828996282527882
+Unknown,1670,other,620,0.28810408921933084
+Unknown,1670,prints|ephemera,1,0.00046468401486988845
+Unknown,1670,textiles-woven,2,0.0009293680297397769
+Unknown,1680,Drawings,131,0.05693176879617558
+Unknown,1680,Prints,559,0.24293785310734464
+Unknown,1680,books,87,0.03780964797913951
+Unknown,1680,ceramics,35,0.015210777922642329
+Unknown,1680,other,1484,0.6449369839200347
+Unknown,1680,textiles-woven,5,0.0021729682746631897
+Unknown,1690,Drawings,261,0.04292057227429699
+Unknown,1690,Prints,819,0.13468179575727676
+Unknown,1690,books,94,0.015457983884229568
+Unknown,1690,ceramics,204,0.033547113961519485
+Unknown,1690,other,4012,0.6597599079098833
+Unknown,1690,textiles-woven,691,0.11363262621279395
+Unknown,1700,Drawings,582,0.17142857142857143
+Unknown,1700,Prints,761,0.22415316642120767
+Unknown,1700,books,118,0.03475699558173785
+Unknown,1700,ceramics,54,0.015905743740795286
+Unknown,1700,other,1828,0.5384388807069219
+Unknown,1700,textiles-woven,52,0.015316642120765831
+Unknown,1710,Drawings,114,0.059006211180124224
+Unknown,1710,Prints,288,0.14906832298136646
+Unknown,1710,books,78,0.040372670807453416
+Unknown,1710,ceramics,35,0.018115942028985508
+Unknown,1710,other,1321,0.6837474120082816
+Unknown,1710,textiles-woven,96,0.049689440993788817
+Unknown,1720,Drawings,202,0.07760276603918556
+Unknown,1720,Prints,561,0.2155205532078371
+Unknown,1720,books,107,0.041106415674222054
+Unknown,1720,ceramics,579,0.22243565117172492
+Unknown,1720,other,1062,0.4079907798693815
+Unknown,1720,prints|ephemera,3,0.001152516327314637
+Unknown,1720,textiles-woven,89,0.03419131771033423
+Unknown,1730,Drawings,147,0.05493273542600897
+Unknown,1730,Prints,543,0.20291479820627803
+Unknown,1730,books,119,0.04446935724962631
+Unknown,1730,ceramics,342,0.12780269058295965
+Unknown,1730,other,1341,0.5011210762331838
+Unknown,1730,prints|ephemera,1,0.0003736920777279522
+Unknown,1730,textiles-woven,183,0.06838565022421525
+Unknown,1740,Drawings,194,0.07072548304775793
+Unknown,1740,Prints,795,0.2898286547575647
+Unknown,1740,books,127,0.04629967189208895
+Unknown,1740,ceramics,19,0.006926722566532993
+Unknown,1740,other,1505,0.5486693401385344
+Unknown,1740,prints|ephemera,4,0.0014582573824279985
+Unknown,1740,textiles-woven,99,0.03609187021509296
+Unknown,1750,Drawings,259,0.05792887497204205
+Unknown,1750,Prints,1173,0.2623574144486692
+Unknown,1750,books,148,0.03310221426973831
+Unknown,1750,ceramics,81,0.018116752404383808
+Unknown,1750,other,2675,0.598300156564527
+Unknown,1750,prints|ephemera,2,0.00044732721986132855
+Unknown,1750,textiles-woven,133,0.02974726012077835
+Unknown,1760,Drawings,289,0.05452830188679245
+Unknown,1760,Prints,2019,0.3809433962264151
+Unknown,1760,books,240,0.045283018867924525
+Unknown,1760,ceramics,99,0.01867924528301887
+Unknown,1760,other,2401,0.4530188679245283
+Unknown,1760,prints|ephemera,2,0.0003773584905660377
+Unknown,1760,textiles-woven,250,0.04716981132075472
+Unknown,1770,Drawings,481,0.0825184422714016
+Unknown,1770,Prints,2464,0.42271401612626525
+Unknown,1770,books,253,0.04340367129867902
+Unknown,1770,ceramics,9,0.001544004117344313
+Unknown,1770,other,2469,0.4235717961914565
+Unknown,1770,prints|ephemera,8,0.0013724481043060558
+Unknown,1770,textiles-woven,145,0.024875621890547265
+Unknown,1780,Drawings,425,0.07243906596216124
+Unknown,1780,Prints,3195,0.5445713311743651
+Unknown,1780,books,219,0.03732742457814897
+Unknown,1780,ceramics,105,0.017896710414181012
+Unknown,1780,other,1862,0.31736833134480996
+Unknown,1780,prints|ephemera,22,0.003749786943923641
+Unknown,1780,textiles-woven,39,0.00664734958241009
+Unknown,1790,Drawings,571,0.03579712870666416
+Unknown,1790,Prints,2796,0.17528681587361294
+Unknown,1790,books,292,0.018306062315842267
+Unknown,1790,ceramics,992,0.062190458278477835
+Unknown,1790,other,9852,0.6176415271769795
+Unknown,1790,prints|ephemera,21,0.001316531878879067
+Unknown,1790,textiles-woven,1427,0.08946147576954423
+Unknown,1800,Drawings,666,0.0884109916367981
+Unknown,1800,Photographs,2,0.00026549847338377806
+Unknown,1800,Prints,3173,0.42121332802336386
+Unknown,1800,books,341,0.04526748971193416
+Unknown,1800,ceramics,114,0.015133412982875348
+Unknown,1800,other,3093,0.41059338908801274
+Unknown,1800,prints|ephemera,101,0.013407672905880791
+Unknown,1800,textiles-woven,43,0.005708217177751228
+Unknown,1810,Drawings,287,0.056164383561643834
+Unknown,1810,Prints,1904,0.3726027397260274
+Unknown,1810,books,321,0.06281800391389432
+Unknown,1810,ceramics,41,0.00802348336594912
+Unknown,1810,other,2341,0.45812133072407046
+Unknown,1810,prints|ephemera,15,0.0029354207436399216
+Unknown,1810,textiles-woven,201,0.03933463796477495
+Unknown,1820,Drawings,470,0.09633121541299447
+Unknown,1820,Prints,2092,0.4287763886042222
+Unknown,1820,books,646,0.13240418118466898
+Unknown,1820,ceramics,107,0.021930723508915763
+Unknown,1820,other,1539,0.3154334904693585
+Unknown,1820,prints|ephemera,16,0.003279360524697684
+Unknown,1820,textiles-woven,9,0.0018446402951424472
+Unknown,1830,Drawings,339,0.06711542268857652
+Unknown,1830,Photographs,20,0.0039596119580281135
+Unknown,1830,Prints,2106,0.4169471391803603
+Unknown,1830,books,400,0.07919223916056227
+Unknown,1830,ceramics,153,0.030291031478915067
+Unknown,1830,other,1968,0.3896258166699663
+Unknown,1830,prints|ephemera,19,0.0037616313601267076
+Unknown,1830,textiles-woven,46,0.00910710750346466
+Unknown,1840,Drawings,439,0.058517728605705144
+Unknown,1840,Photographs,664,0.08850973073846974
+Unknown,1840,Prints,3233,0.43095174620101306
+Unknown,1840,books,507,0.06758197813916289
+Unknown,1840,ceramics,179,0.023860303918954946
+Unknown,1840,other,2447,0.3261796854172221
+Unknown,1840,prints|ephemera,15,0.0019994668088509733
+Unknown,1840,textiles-woven,18,0.0023993601706211675
+Unknown,1850,Drawings,399,0.04365904365904366
+Unknown,1850,Photographs,2565,0.2806652806652807
+Unknown,1850,Prints,3504,0.38341175183280446
+Unknown,1850,books,570,0.062370062370062374
+Unknown,1850,ceramics,64,0.007002954371375424
+Unknown,1850,other,1886,0.20636831163146951
+Unknown,1850,prints|ephemera,15,0.001641317430791115
+Unknown,1850,textiles-woven,136,0.014881278039172776
+Unknown,1860,Drawings,435,0.03985706432105553
+Unknown,1860,Photographs,4497,0.4120395821880154
+Unknown,1860,Prints,3368,0.30859446582371264
+Unknown,1860,books,612,0.056074766355140186
+Unknown,1860,ceramics,131,0.012002932013927067
+Unknown,1860,other,1639,0.15017408832691956
+Unknown,1860,prints|ephemera,156,0.014293567894447499
+Unknown,1860,textiles-woven,76,0.006963533076782115
+Unknown,1870,Drawings,1973,0.2138289801669015
+Unknown,1870,Photographs,2027,0.2196813698927062
+Unknown,1870,Prints,2141,0.23203641486940502
+Unknown,1870,books,1047,0.11347133412810231
+Unknown,1870,ceramics,25,0.002709439687872548
+Unknown,1870,other,1989,0.2155630215671399
+Unknown,1870,prints|ephemera,3,0.00032513276254470577
+Unknown,1870,textiles-woven,22,0.0023843069253278422
+Unknown,1880,Drawings,1361,0.07056200746578184
+Unknown,1880,Photographs,1221,0.06330360846121941
+Unknown,1880,Prints,2100,0.10887598506843633
+Unknown,1880,books,944,0.048942347573620905
+Unknown,1880,ceramics,5,0.0002592285358772294
+Unknown,1880,other,6344,0.3289091663210286
+Unknown,1880,prints|ephemera,7281,0.3774885939444214
+Unknown,1880,textiles-woven,32,0.0016590626296142678
+Unknown,1890,Drawings,1793,0.052004176576367536
+Unknown,1890,Photographs,1154,0.03347061894541447
+Unknown,1890,Prints,3260,0.09455304832066826
+Unknown,1890,books,982,0.028481930506409885
+Unknown,1890,ceramics,671,0.01946168571262834
+Unknown,1890,other,20041,0.5812692151516909
+Unknown,1890,prints|ephemera,3393,0.0984105806601311
+Unknown,1890,textiles-woven,3184,0.09234874412668949
+Unknown,1900,Drawings,1389,0.0725099185633744
+Unknown,1900,Photographs,1473,0.07689496763416162
+Unknown,1900,Prints,3300,0.17226978492378367
+Unknown,1900,books,1047,0.054656504489455
+Unknown,1900,ceramics,22,0.0011484652328252244
+Unknown,1900,other,9991,0.5215598245980372
+Unknown,1900,prints|ephemera,1110,0.057945291292545414
+Unknown,1900,textiles-woven,824,0.0430152432658175
+Unknown,1910,Drawings,1294,0.08875780231840319
+Unknown,1910,Photographs,1160,0.07956649975992866
+Unknown,1910,Prints,3021,0.20721585842650386
+Unknown,1910,books,634,0.043487207627409284
+Unknown,1910,ceramics,122,0.008368200836820083
+Unknown,1910,other,3160,0.21675012003566774
+Unknown,1910,prints|ephemera,5143,0.352767679539063
+Unknown,1910,textiles-woven,45,0.0030866314562041294
+Unknown,1920,Drawings,1176,0.09354864370376263
+Unknown,1920,Photographs,1425,0.1133561371410389
+Unknown,1920,Prints,2770,0.22034842096889667
+Unknown,1920,books,728,0.057911065149948295
+Unknown,1920,ceramics,8,0.0006363853313181131
+Unknown,1920,other,3977,0.31636305783151697
+Unknown,1920,prints|ephemera,2432,0.1934611407207064
+Unknown,1920,textiles-woven,55,0.004375149152812028
+Unknown,1930,Drawings,1451,0.0780695146884752
+Unknown,1930,Photographs,1931,0.10389540514365651
+Unknown,1930,Prints,3603,0.1938555902292048
+Unknown,1930,books,502,0.027009577101043795
+Unknown,1930,ceramics,31,0.001667922091897127
+Unknown,1930,other,7683,0.413375659098246
+Unknown,1930,prints|ephemera,3329,0.17911331109437212
+Unknown,1930,textiles-woven,56,0.003013020553104487
+Unknown,1940,Drawings,1278,0.11833333333333333
+Unknown,1940,Photographs,1403,0.12990740740740742
+Unknown,1940,Prints,3539,0.3276851851851852
+Unknown,1940,books,421,0.03898148148148148
+Unknown,1940,ceramics,6,0.0005555555555555556
+Unknown,1940,other,2523,0.2336111111111111
+Unknown,1940,prints|ephemera,1567,0.1450925925925926
+Unknown,1940,textiles-woven,63,0.005833333333333334
+Unknown,1950,Drawings,764,0.07185178218752938
+Unknown,1950,Photographs,1743,0.16392363396971693
+Unknown,1950,Prints,1971,0.18536631242358695
+Unknown,1950,books,413,0.038841342988808425
+Unknown,1950,ceramics,48,0.004514248095551585
+Unknown,1950,other,2538,0.23869086805229003
+Unknown,1950,prints|ephemera,3046,0.2864666603968776
+Unknown,1950,textiles-woven,110,0.010345151885639049
+Unknown,1960,Drawings,483,0.06271098415995845
+Unknown,1960,Photographs,1980,0.2570760841339912
+Unknown,1960,Prints,2267,0.29433913269280704
+Unknown,1960,books,533,0.06920280446637236
+Unknown,1960,ceramics,26,0.0033757465593352376
+Unknown,1960,other,1744,0.22643469228771748
+Unknown,1960,prints|ephemera,640,0.08309529992209816
+Unknown,1960,textiles-woven,28,0.003635419371591794
+Unknown,1960,vases,1,0.00012983640612827837
+Unknown,1970,Drawings,517,0.07147794829254804
+Unknown,1970,Photographs,2708,0.37439513341628644
+Unknown,1970,Prints,1223,0.1690861330015208
+Unknown,1970,books,217,0.030001382552191345
+Unknown,1970,ceramics,19,0.002626849163555924
+Unknown,1970,other,1858,0.2568781971519425
+Unknown,1970,prints|ephemera,608,0.08405917323378957
+Unknown,1970,textiles-woven,83,0.011475183188165353
+Unknown,1980,Drawings,651,0.16238463457221253
+Unknown,1980,Photographs,966,0.24095784484908955
+Unknown,1980,Prints,772,0.19256672486904464
+Unknown,1980,books,76,0.018957345971563982
+Unknown,1980,ceramics,58,0.014467448241456722
+Unknown,1980,other,1219,0.3040658518333749
+Unknown,1980,prints|ephemera,193,0.04814168121726116
+Unknown,1980,textiles-woven,74,0.01845846844599651
+Unknown,1990,Drawings,247,0.06129032258064516
+Unknown,1990,Photographs,717,0.17791563275434244
+Unknown,1990,Prints,802,0.1990074441687345
+Unknown,1990,books,78,0.01935483870967742
+Unknown,1990,ceramics,56,0.013895781637717122
+Unknown,1990,other,2110,0.5235732009925558
+Unknown,1990,prints|ephemera,1,0.00024813895781637717
+Unknown,1990,textiles-woven,19,0.004714640198511167
+Unknown,2000,Drawings,193,0.043943533697632056
+Unknown,2000,Photographs,442,0.10063752276867031
+Unknown,2000,Prints,438,0.09972677595628415
+Unknown,2000,books,135,0.030737704918032786
+Unknown,2000,ceramics,61,0.013888888888888888
+Unknown,2000,other,2954,0.6725865209471766
+Unknown,2000,textiles-woven,169,0.03847905282331512
+Unknown,2010,Drawings,75,0.07075471698113207
+Unknown,2010,Photographs,229,0.2160377358490566
+Unknown,2010,Prints,312,0.2943396226415094
+Unknown,2010,books,35,0.0330188679245283
+Unknown,2010,ceramics,41,0.038679245283018866
+Unknown,2010,other,364,0.3433962264150943
+Unknown,2010,textiles-woven,1,0.0009433962264150943
+Unknown,2010,vases,3,0.002830188679245283
+Unknown,2020,Drawings,3,0.015957446808510637
+Unknown,2020,Photographs,5,0.026595744680851064
+Unknown,2020,Prints,41,0.21808510638297873
+Unknown,2020,books,4,0.02127659574468085
+Unknown,2020,ceramics,7,0.03723404255319149
+Unknown,2020,other,113,0.601063829787234
+Unknown,2020,textiles-woven,15,0.0797872340425532
