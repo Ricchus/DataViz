@@ -8,18 +8,6 @@ Expected CSV: flows_country_to_museum.csv with columns:
   n_objects            number
   is_unknown_origin    (optional) 0/1, true/false, or absent
 */
-document.addEventListener("DOMContentLoaded", function () {
-  const svg = d3.select("#chart1")
-    .append("svg")
-    .attr("width", 300)
-    .attr("height", 200);
-
-  svg.append("circle")
-    .attr("cx", 150)
-    .attr("cy", 100)
-    .attr("r", 50)
-    .attr("fill", "skyblue");
-});
 
 
 const WORLD_TOPOJSON_URL =
