@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Country Output Over Time – Treasure Trackers</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+  <!-- Brand fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600&family=Playfair+Display:wght@600;700&display=swap" rel="stylesheet">
+
+  <!-- D3 + TopoJSON -->
+  <script src="https://d3js.org/d3.v7.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/topojson-client@3/dist/topojson-client.min.js"></script>
+
+  <link rel="stylesheet" href="css/style.css" />
+</head>
+<body>
+  <header class="tt-header">
+    <div>
+      <h1>Where (and when) are objects created?</h1>
+      <p>
+        This map shades countries by the number of objects created in each decade,
+        with an optional filter for the top media categories.
+      </p>
+    </div>
+  </header>
+
+  <main class="tt-main">
+    <aside class="tt-controls">
+      <h2>Controls</h2>
+
+      <div class="control-group">
+        <label>Decade</label>
+        <input type="range" id="decade-slider" min="0" max="0" step="1" value="0" />
+        <div id="decade-label" class="decade-label">Decade: &mdash;</div>
+      </div>
+
+      <div class="control-group">
+        <label for="medium-select">Medium</label>
+        <select id="medium-select">
+          <option value="ALL" selected>All media</option>
+        </select>
+        <p class="control-note">
+          Use this to focus on a single medium (e.g., Prints or Photographs) or view all media together.
+        </p>
+      </div>
+
+      <section class="summary-panel">
+        <h3>Current view</h3>
+        <div id="summary-box"></div>
+      </section>
+    </aside>
+
+    <section class="tt-viz">
+      <svg id="country-map"></svg>
+      <div id="map-legend"></div>
+    </section>
+  </main>
+
+  <footer class="tt-footer">
+    Treasure Trackers · country × decade × medium prototype
+  </footer>
+
+  <script src="js/main.js"></script>
+</body>
+</html>
