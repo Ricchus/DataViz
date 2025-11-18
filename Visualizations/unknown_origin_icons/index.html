@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <title>How much do we not know? – Treasure Trackers</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+  <!-- Brand fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link
+    href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600&family=Playfair+Display:wght@600;700&display=swap"
+    rel="stylesheet">
+
+  <!-- D3 -->
+  <script src="https://d3js.org/d3.v7.min.js"></script>
+
+  <link rel="stylesheet" href="style.css" />
+</head>
+
+<body>
+  <header class="tt-header">
+    <div>
+      <h1>How much do we not know about where objects come from?</h1>
+      <p>
+        Each stack shows counts of object types collected from each region.
+        The “Unknown origin” column reveals how many objects lack a known origin.
+      </p>
+    </div>
+  </header>
+
+  <main class="tt-main">
+    <aside class="tt-controls">
+      <h2>Controls</h2>
+
+      <div class="control-group">
+        <label>
+          <input type="checkbox" id="toggle-unknown" />
+          Show “Unknown origin” column
+        </label>
+      </div>
+
+      <section class="legend-panel">
+        <h3>Legend</h3>
+        <div id="icon-legend"></div>
+        <p class="legend-note" id="icon-scale-note"></p>
+      </section>
+    </aside>
+
+    <section class="tt-viz">
+      <svg id="unknown-origin-viz"></svg>
+    </section>
+  </main>
+
+  <footer class="tt-footer">
+    Treasure Trackers · unknown origin isotype visualization
+  </footer>
+
+  <script src="main.js"></script>
+</body>
+
+</html>
